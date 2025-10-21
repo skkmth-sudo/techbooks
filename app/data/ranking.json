@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-21T03:45:07.109Z",
+  "generatedAt": "2025-10-21T05:07:52.439Z",
   "source": [
     "qiita",
     "hatena"
@@ -9,16 +9,16 @@
       "id": "13e138c95f1c7f467f26f1b375615303",
       "title": "10個のなぜ？",
       "mentions": 1,
-      "score": 64,
-      "totalLikes": 62,
-      "totalStocks": 55,
+      "score": 66,
+      "totalLikes": 64,
+      "totalStocks": 57,
       "sources": [
         {
           "qiitaId": "3f21c850ddc02636b34c",
           "url": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c",
           "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
-          "likes": 62,
-          "stocks": 55
+          "likes": 64,
+          "stocks": 57
         }
       ]
     },
@@ -26,15 +26,15 @@
       "id": "8f3ae1fc41417ad68562c46bdc00571f",
       "title": "Rust入門",
       "mentions": 9,
-      "score": 54,
-      "totalLikes": 36,
+      "score": 55,
+      "totalLikes": 37,
       "totalStocks": 21,
       "sources": [
         {
           "qiitaId": "5bb75e051383a1ec33f8",
           "url": "https://qiita.com/kazaf91/items/5bb75e051383a1ec33f8",
           "title": "Rust入門講座⑨（Final）非同期処理・マクロ定義",
-          "likes": 3,
+          "likes": 4,
           "stocks": 1
         },
         {
@@ -96,6 +96,182 @@
       ]
     },
     {
+      "id": "32da57a2b9bb936e41adfcc9f8989d43",
+      "title": "久々に本物の悲報を見た",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618548",
+          "title": "俺が退職するために引き継ぎしてた人が、退職届を机の上に残して逃走した「久々に本物の悲報を見た」",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618548",
+          "title": "俺が退職するために引き継ぎしてた人が、退職届を机の上に残して逃走した「久々に本物の悲報を見た」",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "f1c3017168f98797d0c1a279ab782928",
+      "title": "自分を律する姿勢、地方も中央も欠けている",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://news.yahoo.co.jp/articles/17a8a406c71dadb4ccbd9669f791af1356791a65",
+          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」（産経新聞） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/17a8a406c71dadb4ccbd9669f791af1356791a65",
+          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」（産経新聞） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "c14a6240c1660c17bbc02753cd1a2def",
+      "title": "複雑さ",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2056544.html",
+          "title": "パスワードは、特殊文字などの「複雑さ」ではなく「長さ」を求めることを推奨 〜NISTがガイドライン更新【やじうまWatch】",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2056544.html",
+          "title": "パスワードは、特殊文字などの「複雑さ」ではなく「長さ」を求めることを推奨 〜NISTがガイドライン更新【やじうまWatch】",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "ca476b19e775f5e3dc84c1291b6aca33",
+      "title": "G-SHOCK",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news075.html",
+          "title": "指輪サイズの「G-SHOCK」発売　ちゃんと耐衝撃構造に20気圧防水",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news075.html",
+          "title": "指輪サイズの「G-SHOCK」発売　ちゃんと耐衝撃構造に20気圧防水",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "31ac90c12f8b626539352bf1e40a4562",
+      "title": "言っちゃ悪いがオタクのイベントでしょ？税金使い過ぎだ",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618513",
+          "title": "徳島で乗った個人タクシーの運転手、こっちが東京からマチアソビに来たと分かると「言っちゃ悪いがオタクのイベントでしょ？税金使い過ぎだ」と批判してきたが、こういうのはいけないと思う",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618513",
+          "title": "徳島で乗った個人タクシーの運転手、こっちが東京からマチアソビに来たと分かると「言っちゃ悪いがオタクのイベントでしょ？税金使い過ぎだ」と批判してきたが、こういうのはいけないと思う",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "a1f346392a8e8231663d68273a60b3f3",
+      "title": "尻呼吸",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://gigazine.net/news/20251021-ignobel-butt-breathing-idea-closer-real/",
+          "title": "2024年のイグノーベル生理学賞を受賞した日本人の「尻呼吸」に関する研究が実用化に近づく",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://gigazine.net/news/20251021-ignobel-butt-breathing-idea-closer-real/",
+          "title": "2024年のイグノーベル生理学賞を受賞した日本人の「尻呼吸」に関する研究が実用化に近づく",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "c6f8e414d8680aead984fb0764a1f66f",
+      "title": "localhost",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://gigazine.net/news/20251021-microsoft-windows-11-localhost-broken/",
+          "title": "Windows 11のアップデートで「localhost」が壊れたという報告が続出",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://gigazine.net/news/20251021-microsoft-windows-11-localhost-broken/",
+          "title": "Windows 11のアップデートで「localhost」が壊れたという報告が続出",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "2bc11d80602008808762d53e94ef2fe9",
+      "title": "魔改造の夜",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://news.yahoo.co.jp/expert/articles/2d1652560c4125b36715213ac6d5eb3ae6c9c165",
+          "title": "企業から出演を断られ続けた『魔改造の夜』はなぜ出演希望が殺到する番組になったか（境治） - エキスパート - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://news.yahoo.co.jp/expert/articles/2d1652560c4125b36715213ac6d5eb3ae6c9c165",
+          "title": "企業から出演を断られ続けた『魔改造の夜』はなぜ出演希望が殺到する番組になったか（境治） - エキスパート - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
       "id": "81c64965e34a83d195991442297d0cf5",
       "title": "トードカティン祭り",
       "mentions": 2,
@@ -134,6 +310,50 @@
         {
           "url": "https://togetter.com/li/2618516",
           "title": "ヤバイ奴への対処として、そいつの行動を上回るヤバイ行動をすれば撃退できるという話「アイツらやり返されることを想定してないから怯む」「バケモンにはバケモンぶつけんだよ」",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "b2c55a6b226454659d74ca88f1f42214",
+      "title": "やっぱりミャクミャクの正体は怖かった",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://bunshun.jp/articles/-/83008",
+          "title": "「やっぱりミャクミャクの正体は怖かった」自民党幹部は維新に「あの時の借りを返してほしい」と…政治の取引に使われた大阪万博の末路 | 文春オンライン",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://bunshun.jp/articles/-/83008",
+          "title": "「やっぱりミャクミャクの正体は怖かった」自民党幹部は維新に「あの時の借りを返してほしい」と…政治の取引に使われた大阪万博の末路 | 文春オンライン",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "89b029f73dc4978511673d4c7a09117b",
+      "title": "イベント行こう",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://levtech.jp/media/article/interview/detail_742/",
+          "title": "「イベント行こう」のやらされ感をなくす。ゼロから技術発信文化を組織に根付かせた方法【ログラス飯田意己】",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://levtech.jp/media/article/interview/detail_742/",
+          "title": "「イベント行こう」のやらされ感をなくす。ゼロから技術発信文化を組織に根付かせた方法【ログラス飯田意己】",
           "likes": 3,
           "stocks": 0
         }
@@ -184,6 +404,50 @@
       ]
     },
     {
+      "id": "acca9dc72c507de8400a1583cfc56fe9",
+      "title": "トラックのエンジンをEVにできるの？",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://posfie.com/@taimport/p/QnhwKfy",
+          "title": "トラック業界の人に訊いた。私「トラックのエンジンをEVにできるの？」運送屋「無理に決まってるだろ！重い荷物を運び長距離を走るんだぞ？バッテリーが巨大化して運べる荷物が減って本末転倒だ！」→有識者からコメントが続々",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://posfie.com/@taimport/p/QnhwKfy",
+          "title": "トラック業界の人に訊いた。私「トラックのエンジンをEVにできるの？」運送屋「無理に決まってるだろ！重い荷物を運び長距離を走るんだぞ？バッテリーが巨大化して運べる荷物が減って本末転倒だ！」→有識者からコメントが続々",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "e0d8f6d8f2a1844d6f3a577d15fc4458",
+      "title": "女を専業主婦にしたがる",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://courrier.jp/news/archives/418717/",
+          "title": "ヒトラーからトランプまで…独裁者はなぜ「女を専業主婦にしたがる」のか | ナチスの母性賛美からMAGAのウーマノスフィアへ",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://courrier.jp/news/archives/418717/",
+          "title": "ヒトラーからトランプまで…独裁者はなぜ「女を専業主婦にしたがる」のか | ナチスの母性賛美からMAGAのウーマノスフィアへ",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
       "id": "b5d36af2a1c49dc17491089d5e785021",
       "title": "サブエージェント",
       "mentions": 2,
@@ -206,282 +470,18 @@
       ]
     },
     {
-      "id": "6850a5248a8242b093de1f1126f02b28",
-      "title": "ランドホッパー",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://car.watch.impress.co.jp/docs/news/2056504.html",
-          "title": "トヨタ、新型ランクルFJにも搭載できる折りたたみ式電動パーソナルモビリティ「ランドホッパー」開発中",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://car.watch.impress.co.jp/docs/news/2056504.html",
-          "title": "トヨタ、新型ランクルFJにも搭載できる折りたたみ式電動パーソナルモビリティ「ランドホッパー」開発中",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "bb18e64d7ff993cbf63ba956673fd8bf",
-      "title": "飛行機って世界一事故の少ない乗り物なんすよ",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://togetter.com/li/2618493",
-          "title": "なんで飛行機って新幹線より安いの？落ちるから？→様々な理由がある模様「飛行機って世界一事故の少ない乗り物なんすよ」",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://togetter.com/li/2618493",
-          "title": "なんで飛行機って新幹線より安いの？落ちるから？→様々な理由がある模様「飛行機って世界一事故の少ない乗り物なんすよ」",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "887deca02020ac2effcd7d726a592216",
-      "title": "生きがい",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://togetter.com/li/2618491",
-          "title": "50代前半で亡くなった一人のアイドルオタクの話… 故人の部屋には必要最低限の家具しかなかったが、押し入れには大量のチェキがあり「生きがい」だったんだなあと感じた",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://togetter.com/li/2618491",
-          "title": "50代前半で亡くなった一人のアイドルオタクの話… 故人の部屋には必要最低限の家具しかなかったが、押し入れには大量のチェキがあり「生きがい」だったんだなあと感じた",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "43ab9fb77c910642a7e42ecd799e8331",
-      "title": "少し特別な商品を買い取りました。震災時、任天堂さんが避難所生活の人のために寄付したDSi LLです",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://togetter.com/li/2618502",
-          "title": "ハードオフ石巻店『少し特別な商品を買い取りました。震災時、任天堂さんが避難所生活の人のために寄付したDSi LLです』→賛否両論の意見があがる",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://togetter.com/li/2618502",
-          "title": "ハードオフ石巻店『少し特別な商品を買い取りました。震災時、任天堂さんが避難所生活の人のために寄付したDSi LLです』→賛否両論の意見があがる",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "c99f05142f0eb6ea26254efd3d97d439",
-      "title": "とほほのWWW入門",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2056489.html",
-          "title": "AI時代に突入した「とほほのWWW入門」に早くもGoogle製AIツール3種の解説が追加／「Google AI Studio」、「NotebookLM」、「Google Opal」を入門者向けに解説【やじうまの杜】",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2056489.html",
-          "title": "AI時代に突入した「とほほのWWW入門」に早くもGoogle製AIツール3種の解説が追加／「Google AI Studio」、「NotebookLM」、「Google Opal」を入門者向けに解説【やじうまの杜】",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "a3775f559f3e2632d93c7a7e7f0dcedd",
-      "title": "一噛みで腕をやられた",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.cnn.co.jp/world/35239428.html",
-          "title": "ランナーが森でクマと格闘、「一噛みで腕をやられた」　日本・妙高",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.cnn.co.jp/world/35239428.html",
-          "title": "ランナーが森でクマと格闘、「一噛みで腕をやられた」　日本・妙高",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "45989d5a9ab2ee5c93d3f2e892929451",
-      "title": "放送のウラに通信アリ展",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2056434.html",
-          "title": "鉱石ラジオの音も聴ける、 KDDI MUSEUMで特別展「放送のウラに通信アリ展」",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://k-tai.watch.impress.co.jp/docs/news/2056434.html",
-          "title": "鉱石ラジオの音も聴ける、 KDDI MUSEUMで特別展「放送のウラに通信アリ展」",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "ef5277c2dba771b0320249b402b93811",
-      "title": "95％のAIプロジェクトが失敗",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://internet.watch.impress.co.jp/docs/event/2056360.html",
-          "title": "「95％のAIプロジェクトが失敗」の壁をどう超える？　Uber、アニメ業界、ソフトバンクのAI最前線【CEATEC 2025】",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://internet.watch.impress.co.jp/docs/event/2056360.html",
-          "title": "「95％のAIプロジェクトが失敗」の壁をどう超える？　Uber、アニメ業界、ソフトバンクのAI最前線【CEATEC 2025】",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "aa6224c0cd0e137b3d7bb6abd298ac09",
-      "title": "ランドクルーザー“FJ”",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://car.watch.impress.co.jp/docs/news/2056502.html",
-          "title": "トヨタ、新型「ランドクルーザー“FJ”」世界初公開 ランクルも群でグローバル展開、日本発売は2026年の年央予定",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://car.watch.impress.co.jp/docs/news/2056502.html",
-          "title": "トヨタ、新型「ランドクルーザー“FJ”」世界初公開 ランクルも群でグローバル展開、日本発売は2026年の年央予定",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "40b699d01859882b7385f16a42ed499c",
-      "title": "国旗損壊罪",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.nikkei.com/article/DGXZQOUA209Z90Q5A021C2000000/",
-          "title": "「国旗損壊罪」制定へ26年通常国会に法案　自民党・維新合意 - 日本経済新聞",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.nikkei.com/article/DGXZQOUA209Z90Q5A021C2000000/",
-          "title": "「国旗損壊罪」制定へ26年通常国会に法案　自民党・維新合意 - 日本経済新聞",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "3955867bf0ed687b8781905de03e43b9",
-      "title": "プライバシーサンドボックス技術",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://gigazine.net/news/20251021-chrome-privacy-sandbox-retire/",
-          "title": "GoogleがChromeの「プライバシーサンドボックス技術」廃止を決定",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://gigazine.net/news/20251021-chrome-privacy-sandbox-retire/",
-          "title": "GoogleがChromeの「プライバシーサンドボックス技術」廃止を決定",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "ef0fb8ff7f7e2c5fc8b11e9071b4d8bf",
-      "title": "何も産み出してないのに給与が高い業界って、思い当たりますか？",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://news.yahoo.co.jp/articles/41417968f88dc71b569e7d2a4462c30d7cc6863b",
-          "title": "前澤友作氏「何も産み出してないのに給与が高い業界って、思い当たりますか？」（スポニチアネックス） - Yahoo!ニュース",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://news.yahoo.co.jp/articles/41417968f88dc71b569e7d2a4462c30d7cc6863b",
-          "title": "前澤友作氏「何も産み出してないのに給与が高い業界って、思い当たりますか？」（スポニチアネックス） - Yahoo!ニュース",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
       "id": "0d5bb613ce3c925827ffd1283707fe2b",
       "title": "AutoGPT × OODAループ【実践",
       "mentions": 1,
-      "score": 7,
-      "totalLikes": 5,
+      "score": 8,
+      "totalLikes": 6,
       "totalStocks": 1,
       "sources": [
         {
           "qiitaId": "dae05eb6eebafe049bff",
           "url": "https://qiita.com/ota-tsutomu/items/dae05eb6eebafe049bff",
           "title": "AutoGPT × OODAループ【実践＆応用編】思考と行動をエージェント化する仕組みを考えてみる",
-          "likes": 5,
+          "likes": 6,
           "stocks": 1
         }
       ]
@@ -1200,6 +1200,23 @@
           "title": "【演習弐・実践編其の弐】量子コンピュータで株価予測に挑んだら、バックテストの罠にハマった話",
           "likes": 0,
           "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "496d3ca181183681f0bdbe328516546f",
+      "title": "ReactのuseContext入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "63aab42def1686691e84",
+          "url": "https://qiita.com/toamoku-20220418/items/63aab42def1686691e84",
+          "title": "ReactのuseContext入門：propsなしでデータを共有してみよう！",
+          "likes": 0,
+          "stocks": 0
         }
       ]
     },
@@ -2116,23 +2133,6 @@
           "qiitaId": "fe754acd2905dffa3acb",
           "url": "https://qiita.com/juna1013/items/fe754acd2905dffa3acb",
           "title": "アルゴリズム入門(1) - 基本ソート編",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "78dd1f235d376a6f8e8f5cbcc28c6379",
-      "title": "集合と位相 入門の入門",
-      "mentions": 1,
-      "score": 2,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "qiitaId": "ff3e9d70033fdb41ec9c",
-          "url": "https://qiita.com/fumi_fum_fum/items/ff3e9d70033fdb41ec9c",
-          "title": "すうがくぶんか講義「集合と位相 入門の入門」　補集合、和集合、共通部分、差集合",
           "likes": 0,
           "stocks": 0
         }
