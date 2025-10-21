@@ -14,12 +14,13 @@ jobs:
         with:
           node-version: "20"
           cache: "npm"
-      - run: npm ci || npm i
+      - name: Install deps
+        run: npm ci || npm i
       - name: Collect (tech books)
         env:
-          QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}  # 任意
+          QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
           QIITA_PAGES: 3
-        run: npx ts-node --transpile-only scripts/collect-tech.ts
+        run: npm run collect:tech
       - name: Commit if changed
         run: |
           if [ -n "$(git status --porcelain app/data/ranking.json)" ]; then
