@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-21T05:07:52.439Z",
+  "generatedAt": "2025-10-21T05:11:48.931Z",
   "source": [
     "qiita",
     "hatena"
@@ -442,28 +442,6 @@
         {
           "url": "https://courrier.jp/news/archives/418717/",
           "title": "ヒトラーからトランプまで…独裁者はなぜ「女を専業主婦にしたがる」のか | ナチスの母性賛美からMAGAのウーマノスフィアへ",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "b5d36af2a1c49dc17491089d5e785021",
-      "title": "サブエージェント",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://kaminashi-developer.hatenablog.jp/entry/dev-camp-claude-subagents",
-          "title": "開発合宿で Claude Codeの「サブエージェント」について学んだ話 - カミナシ エンジニアブログ",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://kaminashi-developer.hatenablog.jp/entry/dev-camp-claude-subagents",
-          "title": "開発合宿で Claude Codeの「サブエージェント」について学んだ話 - カミナシ エンジニアブログ",
           "likes": 3,
           "stocks": 0
         }
