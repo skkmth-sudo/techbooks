@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-21T05:40:39.076Z",
+  "generatedAt": "2025-10-21T19:24:59.057Z",
   "source": [
     "qiita",
     "hatena"
@@ -9,16 +9,16 @@
       "id": "13e138c95f1c7f467f26f1b375615303",
       "title": "10個のなぜ？",
       "mentions": 1,
-      "score": 68,
-      "totalLikes": 66,
-      "totalStocks": 57,
+      "score": 87,
+      "totalLikes": 85,
+      "totalStocks": 73,
       "sources": [
         {
           "qiitaId": "3f21c850ddc02636b34c",
           "url": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c",
           "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
-          "likes": 66,
-          "stocks": 57
+          "likes": 85,
+          "stocks": 73
         }
       ]
     },
@@ -26,64 +26,64 @@
       "id": "8f3ae1fc41417ad68562c46bdc00571f",
       "title": "Rust入門",
       "mentions": 9,
-      "score": 55,
-      "totalLikes": 37,
+      "score": 64,
+      "totalLikes": 46,
       "totalStocks": 21,
       "sources": [
         {
           "qiitaId": "5bb75e051383a1ec33f8",
           "url": "https://qiita.com/kazaf91/items/5bb75e051383a1ec33f8",
           "title": "Rust入門講座⑨（Final）非同期処理・マクロ定義",
-          "likes": 4,
+          "likes": 6,
           "stocks": 1
         },
         {
           "qiitaId": "d49cdee4ce53a4738f2b",
           "url": "https://qiita.com/kazaf91/items/d49cdee4ce53a4738f2b",
           "title": "Rust入門講座⑧参照カウンタ・マルチスレッド・rayonクレート",
-          "likes": 2,
+          "likes": 3,
           "stocks": 1
         },
         {
           "qiitaId": "bac94fb32eed0ef180ba",
           "url": "https://qiita.com/kazaf91/items/bac94fb32eed0ef180ba",
           "title": "Rust入門講座⑦ユーティリティトレイト・アトリビュート・ドキュメンテーション",
-          "likes": 3,
+          "likes": 4,
           "stocks": 1
         },
         {
           "qiitaId": "24f93a0731daec547543",
           "url": "https://qiita.com/kazaf91/items/24f93a0731daec547543",
           "title": "Rust入門講座⑥クレート・モジュール・テスト・ワークスペース",
-          "likes": 4,
+          "likes": 5,
           "stocks": 2
         },
         {
           "qiitaId": "0039e5109cd588a79d54",
           "url": "https://qiita.com/kazaf91/items/0039e5109cd588a79d54",
           "title": "Rust入門講座⑤文字列・ライフタイムパラメータ・マクロ",
-          "likes": 3,
+          "likes": 4,
           "stocks": 2
         },
         {
           "qiitaId": "a0ab7c24a16ffc67900d",
           "url": "https://qiita.com/kazaf91/items/a0ab7c24a16ffc67900d",
           "title": "Rust入門講座④Result・Option・クロージャ・スライス",
-          "likes": 2,
+          "likes": 3,
           "stocks": 1
         },
         {
           "qiitaId": "5e15ad3a18bfbcbcb75d",
           "url": "https://qiita.com/kazaf91/items/5e15ad3a18bfbcbcb75d",
           "title": "Rust入門講座③所有権・ライフタイム・借用チェッカー・参照外し",
-          "likes": 2,
+          "likes": 3,
           "stocks": 1
         },
         {
           "qiitaId": "7ca6984e45e20577cc33",
           "url": "https://qiita.com/kazaf91/items/7ca6984e45e20577cc33",
           "title": "Rust入門講座②基本的な型・トレイト・ジェネリクス",
-          "likes": 3,
+          "likes": 4,
           "stocks": 1
         },
         {
@@ -96,342 +96,34 @@
       ]
     },
     {
-      "id": "f1c3017168f98797d0c1a279ab782928",
-      "title": "自分を律する姿勢、地方も中央も欠けている",
+      "id": "8e7bc52fef704dfa78fcc49193630945",
+      "title": "頭が真っ白に",
       "mentions": 4,
       "score": 20,
       "totalLikes": 12,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://www.sankei.com/article/20251021-OIXFVTMYXNPQLCF6NS4OIUD524/",
-          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」",
+          "url": "https://news.yahoo.co.jp/articles/900c021e061607f6cb70bc684671c5b00597a8d2",
+          "title": "国民・小林氏「頭が真っ白に」　決選投票、間違って高市氏に（毎日新聞） - Yahoo!ニュース",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://news.yahoo.co.jp/articles/17a8a406c71dadb4ccbd9669f791af1356791a65",
-          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」（産経新聞） - Yahoo!ニュース",
+          "url": "https://mainichi.jp/articles/20251021/k00/00m/010/269000c",
+          "title": "国民・小林氏「頭が真っ白に」　決選投票、間違って高市氏に | 毎日新聞",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://www.sankei.com/article/20251021-OIXFVTMYXNPQLCF6NS4OIUD524/",
-          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」",
+          "url": "https://news.yahoo.co.jp/articles/900c021e061607f6cb70bc684671c5b00597a8d2",
+          "title": "国民・小林氏「頭が真っ白に」　決選投票、間違って高市氏に（毎日新聞） - Yahoo!ニュース",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://news.yahoo.co.jp/articles/17a8a406c71dadb4ccbd9669f791af1356791a65",
-          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」（産経新聞） - Yahoo!ニュース",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "04640b71b83d88e90b280d83590bc8b4",
-      "title": "短絡的な",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.yomiuri.co.jp/local/kyushu/news/20251020-OYTNT50020/",
-          "title": "工期に追われ「短絡的な」放火、投資額・数十億円の半導体関連工場は改修再開のめど立たず…うなだれる被告",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.yomiuri.co.jp/local/kyushu/news/20251020-OYTNT50020/",
-          "title": "工期に追われ「短絡的な」放火、投資額・数十億円の半導体関連工場は改修再開のめど立たず…うなだれる被告",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "32da57a2b9bb936e41adfcc9f8989d43",
-      "title": "久々に本物の悲報を見た",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://togetter.com/li/2618548",
-          "title": "俺が退職するために引き継ぎしてた人が、退職届を机の上に残して逃走した「久々に本物の悲報を見た」",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://togetter.com/li/2618548",
-          "title": "俺が退職するために引き継ぎしてた人が、退職届を机の上に残して逃走した「久々に本物の悲報を見た」",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "2856bb9296eea6cb0dc7f1918fa5e901",
-      "title": "女の時代",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.asahi.com/articles/ASTBN0PNDTBNUTFL00NM.html",
-          "title": "「女の時代」の矛盾を体現する高市氏　保守がガラスの天井破った理由：朝日新聞",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.asahi.com/articles/ASTBN0PNDTBNUTFL00NM.html",
-          "title": "「女の時代」の矛盾を体現する高市氏　保守がガラスの天井破った理由：朝日新聞",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "1ed6000a98caa31c505e6fb5edc2e591",
-      "title": "狩り",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.nikkei.com/article/DGXZQOSG17AL30X11C25A0000000/",
-          "title": "ウナギが陸上で「狩り」、東京大学が発見　虫やトカゲ食べる - 日本経済新聞",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.nikkei.com/article/DGXZQOSG17AL30X11C25A0000000/",
-          "title": "ウナギが陸上で「狩り」、東京大学が発見　虫やトカゲ食べる - 日本経済新聞",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "c14a6240c1660c17bbc02753cd1a2def",
-      "title": "複雑さ",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2056544.html",
-          "title": "パスワードは、特殊文字などの「複雑さ」ではなく「長さ」を求めることを推奨 〜NISTがガイドライン更新【やじうまWatch】",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2056544.html",
-          "title": "パスワードは、特殊文字などの「複雑さ」ではなく「長さ」を求めることを推奨 〜NISTがガイドライン更新【やじうまWatch】",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "9507400b7588a3d45c4bd7065ec1bc66",
-      "title": "男の悪事を女で表現するな",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news046.html",
-          "title": "「男の悪事を女で表現するな」で炎上した「炎上展」、キービジュアルの制作意図は？　運営に聞いた",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news046.html",
-          "title": "「男の悪事を女で表現するな」で炎上した「炎上展」、キービジュアルの制作意図は？　運営に聞いた",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "ca476b19e775f5e3dc84c1291b6aca33",
-      "title": "G-SHOCK",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news075.html",
-          "title": "指輪サイズの「G-SHOCK」発売　ちゃんと耐衝撃構造に20気圧防水",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news075.html",
-          "title": "指輪サイズの「G-SHOCK」発売　ちゃんと耐衝撃構造に20気圧防水",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "31ac90c12f8b626539352bf1e40a4562",
-      "title": "言っちゃ悪いがオタクのイベントでしょ？税金使い過ぎだ",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://togetter.com/li/2618513",
-          "title": "徳島で乗った個人タクシーの運転手、こっちが東京からマチアソビに来たと分かると「言っちゃ悪いがオタクのイベントでしょ？税金使い過ぎだ」と批判してきたが、こういうのはいけないと思う",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://togetter.com/li/2618513",
-          "title": "徳島で乗った個人タクシーの運転手、こっちが東京からマチアソビに来たと分かると「言っちゃ悪いがオタクのイベントでしょ？税金使い過ぎだ」と批判してきたが、こういうのはいけないと思う",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "a1f346392a8e8231663d68273a60b3f3",
-      "title": "尻呼吸",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://gigazine.net/news/20251021-ignobel-butt-breathing-idea-closer-real/",
-          "title": "2024年のイグノーベル生理学賞を受賞した日本人の「尻呼吸」に関する研究が実用化に近づく",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://gigazine.net/news/20251021-ignobel-butt-breathing-idea-closer-real/",
-          "title": "2024年のイグノーベル生理学賞を受賞した日本人の「尻呼吸」に関する研究が実用化に近づく",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "c6f8e414d8680aead984fb0764a1f66f",
-      "title": "localhost",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://gigazine.net/news/20251021-microsoft-windows-11-localhost-broken/",
-          "title": "Windows 11のアップデートで「localhost」が壊れたという報告が続出",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://gigazine.net/news/20251021-microsoft-windows-11-localhost-broken/",
-          "title": "Windows 11のアップデートで「localhost」が壊れたという報告が続出",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "2bc11d80602008808762d53e94ef2fe9",
-      "title": "魔改造の夜",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://news.yahoo.co.jp/expert/articles/2d1652560c4125b36715213ac6d5eb3ae6c9c165",
-          "title": "企業から出演を断られ続けた『魔改造の夜』はなぜ出演希望が殺到する番組になったか（境治） - エキスパート - Yahoo!ニュース",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://news.yahoo.co.jp/expert/articles/2d1652560c4125b36715213ac6d5eb3ae6c9c165",
-          "title": "企業から出演を断られ続けた『魔改造の夜』はなぜ出演希望が殺到する番組になったか（境治） - エキスパート - Yahoo!ニュース",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "81c64965e34a83d195991442297d0cf5",
-      "title": "トードカティン祭り",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.syokuraku-web.com/column/116356/",
-          "title": "約60もの屋台でタイ料理がすべて無料！ 成田のタイ寺院が主宰する「トードカティン祭り」に潜入してきた",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.syokuraku-web.com/column/116356/",
-          "title": "約60もの屋台でタイ料理がすべて無料！ 成田のタイ寺院が主宰する「トードカティン祭り」に潜入してきた",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "519e6037b8926c0c0a71e867e76974e6",
-      "title": "アイツらやり返されることを想定してないから怯む",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://togetter.com/li/2618516",
-          "title": "ヤバイ奴への対処として、そいつの行動を上回るヤバイ行動をすれば撃退できるという話「アイツらやり返されることを想定してないから怯む」「バケモンにはバケモンぶつけんだよ」",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://togetter.com/li/2618516",
-          "title": "ヤバイ奴への対処として、そいつの行動を上回るヤバイ行動をすれば撃退できるという話「アイツらやり返されることを想定してないから怯む」「バケモンにはバケモンぶつけんだよ」",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "b2c55a6b226454659d74ca88f1f42214",
-      "title": "やっぱりミャクミャクの正体は怖かった",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://bunshun.jp/articles/-/83008",
-          "title": "「やっぱりミャクミャクの正体は怖かった」自民党幹部は維新に「あの時の借りを返してほしい」と…政治の取引に使われた大阪万博の末路 | 文春オンライン",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://bunshun.jp/articles/-/83008",
-          "title": "「やっぱりミャクミャクの正体は怖かった」自民党幹部は維新に「あの時の借りを返してほしい」と…政治の取引に使われた大阪万博の末路 | 文春オンライン",
+          "url": "https://mainichi.jp/articles/20251021/k00/00m/010/269000c",
+          "title": "国民・小林氏「頭が真っ白に」　決選投票、間違って高市氏に | 毎日新聞",
           "likes": 3,
           "stocks": 0
         }
@@ -441,16 +133,192 @@
       "id": "0d5bb613ce3c925827ffd1283707fe2b",
       "title": "AutoGPT × OODAループ【実践",
       "mentions": 1,
-      "score": 8,
-      "totalLikes": 6,
-      "totalStocks": 1,
+      "score": 9,
+      "totalLikes": 7,
+      "totalStocks": 2,
       "sources": [
         {
           "qiitaId": "dae05eb6eebafe049bff",
           "url": "https://qiita.com/ota-tsutomu/items/dae05eb6eebafe049bff",
           "title": "AutoGPT × OODAループ【実践＆応用編】思考と行動をエージェント化する仕組みを考えてみる",
-          "likes": 6,
-          "stocks": 1
+          "likes": 7,
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "id": "0a99c9a66f08f9432bd4f6059fd9dffd",
+      "title": "グエー死んだンゴ",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618682",
+          "title": "がんの治療を受けている人の中には輸血を必要としている人も多いと聞いたので献血に協力してきた、「グエー死んだンゴ」ニキの想いは受け継がれるはず… 成仏してクレメンス",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618682",
+          "title": "がんの治療を受けている人の中には輸血を必要としている人も多いと聞いたので献血に協力してきた、「グエー死んだンゴ」ニキの想いは受け継がれるはず… 成仏してクレメンス",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "c989a6633167951321f2810253733f7c",
+      "title": "不適切な内容がございました",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://news.yahoo.co.jp/articles/25674e4ba268fba9d8933ee9af81fde3c56cf1d7",
+          "title": "BS朝日、”暴言”田原総一朗氏を厳重注意「不適切な内容がございました」（オリコン） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/25674e4ba268fba9d8933ee9af81fde3c56cf1d7",
+          "title": "BS朝日、”暴言”田原総一朗氏を厳重注意「不適切な内容がございました」（オリコン） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "0436145d5a37db62905fbc0124ea499d",
+      "title": "Claude Code on the web",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://forest.watch.impress.co.jp/docs/news/2056677.html",
+          "title": "Webブラウザーから直接コーディングタスクを依頼できる「Claude Code on the web」、iOSアプリも／リサーチプレビューとしてPro/Maxユーザー限定でベータ版を提供",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://forest.watch.impress.co.jp/docs/news/2056677.html",
+          "title": "Webブラウザーから直接コーディングタスクを依頼できる「Claude Code on the web」、iOSアプリも／リサーチプレビューとしてPro/Maxユーザー限定でベータ版を提供",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "b5a954e647df387ee8348b039389e322",
+      "title": "葬送のフリーレン",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618652",
+          "title": "椎名高志先生による、『葬送のフリーレン』は「紙の漫画雑誌文化の終焉と、それを背負った新たな電子漫画の時代への旅」のメタファーなのかも説",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618652",
+          "title": "椎名高志先生による、『葬送のフリーレン』は「紙の漫画雑誌文化の終焉と、それを背負った新たな電子漫画の時代への旅」のメタファーなのかも説",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "d88c8f6899f2507273e4ac4dc196f85c",
+      "title": "スープのガワを被ったエナドリ",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618640",
+          "title": "マリア・テレジアが毎日7～8杯飲んだというハプスブルク家の特製スープ、手間のかけ方が尋常じゃなくて「スープのガワを被ったエナドリ」みたいな超濃厚な味らしく興味をそそる",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618640",
+          "title": "マリア・テレジアが毎日7～8杯飲んだというハプスブルク家の特製スープ、手間のかけ方が尋常じゃなくて「スープのガワを被ったエナドリ」みたいな超濃厚な味らしく興味をそそる",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "0f0748547ee352f3a4da98f85f052d81",
+      "title": "Anker PowerCore 10000",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://internet.watch.impress.co.jp/docs/news/2056670.html",
+          "title": "Anker、モバイルバッテリー・スピーカー4製品の自主回収を発表、発火する事象が国内で発生　「Anker PowerCore 10000」「Soundcore 3」「Soundcore Motion X600」「Anker PowerConf S500」の一部が対象",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://internet.watch.impress.co.jp/docs/news/2056670.html",
+          "title": "Anker、モバイルバッテリー・スピーカー4製品の自主回収を発表、発火する事象が国内で発生　「Anker PowerCore 10000」「Soundcore 3」「Soundcore Motion X600」「Anker PowerConf S500」の一部が対象",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "456c2d650635c9b7ee7214e58e0cad4b",
+      "title": "護身用でも携帯するのは軽犯罪法違反",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618615",
+          "title": "山手線の電車内で催涙スプレーが撒かれるトラブルが発生「護身用でも携帯するのは軽犯罪法違反」",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618615",
+          "title": "山手線の電車内で催涙スプレーが撒かれるトラブルが発生「護身用でも携帯するのは軽犯罪法違反」",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "764738f636440de47207f83c983d5f1c",
+      "title": "トレパク",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.ben54.jp/news/2797",
+          "title": "江口寿史氏のイラスト、著作権的には“セーフ”の可能性も？　「トレパク」をめぐる“権利侵害”の判断ポイント | 弁護士JPニュース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.ben54.jp/news/2797",
+          "title": "江口寿史氏のイラスト、著作権的には“セーフ”の可能性も？　「トレパク」をめぐる“権利侵害”の判断ポイント | 弁護士JPニュース",
+          "likes": 3,
+          "stocks": 0
         }
       ]
     },
@@ -489,6 +357,23 @@
       ]
     },
     {
+      "id": "cf1b67d574b60b1db01293a99d67ac8b",
+      "title": "コーディングエージェント時代のコンテキストエンジニアリング実践",
+      "mentions": 1,
+      "score": 7,
+      "totalLikes": 5,
+      "totalStocks": 5,
+      "sources": [
+        {
+          "qiitaId": "15206e0c01426e953026",
+          "url": "https://qiita.com/nogataka/items/15206e0c01426e953026",
+          "title": "コーディングエージェント時代のコンテキストエンジニアリング実践ガイド",
+          "likes": 5,
+          "stocks": 5
+        }
+      ]
+    },
+    {
       "id": "7cbb61349eea2dd21cc63e1aa167188f",
       "title": "Amazon Bedrock GuardrailsによるAIエージェントの安全対策入門",
       "mentions": 1,
@@ -523,23 +408,6 @@
       ]
     },
     {
-      "id": "cf1b67d574b60b1db01293a99d67ac8b",
-      "title": "コーディングエージェント時代のコンテキストエンジニアリング実践",
-      "mentions": 1,
-      "score": 6,
-      "totalLikes": 4,
-      "totalStocks": 4,
-      "sources": [
-        {
-          "qiitaId": "15206e0c01426e953026",
-          "url": "https://qiita.com/nogataka/items/15206e0c01426e953026",
-          "title": "コーディングエージェント時代のコンテキストエンジニアリング実践ガイド",
-          "likes": 4,
-          "stocks": 4
-        }
-      ]
-    },
-    {
       "id": "c8d58288c24d6ccdbce6ff6abd33bd15",
       "title": "失われた30年から脱却？日本経済の長期トレンドと政策の節目を可視化 ",
       "mentions": 1,
@@ -553,37 +421,6 @@
           "title": "失われた30年から脱却？日本経済の長期トレンドと政策の節目を可視化 : Pythonで学ぶ マクロ経済学入門 (22)",
           "likes": 4,
           "stocks": 5
-        }
-      ]
-    },
-    {
-      "id": "bd349479966f7b4c856c75c03b0690b1",
-      "title": "【Linux入門",
-      "mentions": 3,
-      "score": 9,
-      "totalLikes": 3,
-      "totalStocks": 1,
-      "sources": [
-        {
-          "qiitaId": "f654e6562612ce34096e",
-          "url": "https://qiita.com/power-chan/items/f654e6562612ce34096e",
-          "title": "【Linux入門】psとtopでプロセス管理してみよう（初心者向け解説）",
-          "likes": 1,
-          "stocks": 0
-        },
-        {
-          "qiitaId": "6c1d00bbcb37846ffd21",
-          "url": "https://qiita.com/power-chan/items/6c1d00bbcb37846ffd21",
-          "title": "【Linux入門】パイプとリダイレクトでコマンドをつなげてみよう（初心者向け解説）",
-          "likes": 1,
-          "stocks": 0
-        },
-        {
-          "qiitaId": "a36802af57eae22bbfe1",
-          "url": "https://qiita.com/power-chan/items/a36802af57eae22bbfe1",
-          "title": "【Linux入門】findコマンドでファイルを探そう（初心者向け解説）",
-          "likes": 1,
-          "stocks": 1
         }
       ]
     },
@@ -623,6 +460,23 @@
           "qiitaId": "280308e28ed389ec821d",
           "url": "https://qiita.com/nogataka/items/280308e28ed389ec821d",
           "title": "Water-Scrum-Fastを実践して分かった10の教訓 〜AI駆動開発の落とし穴と成功パターン〜",
+          "likes": 3,
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "id": "02949e6e5064d909df90914068fcfc7a",
+      "title": "Codexライフを劇的に変える２つの神ツール：開発生産性を最大化する実践",
+      "mentions": 1,
+      "score": 5,
+      "totalLikes": 3,
+      "totalStocks": 2,
+      "sources": [
+        {
+          "qiitaId": "a5a0074b06c57555a850",
+          "url": "https://qiita.com/nogataka/items/a5a0074b06c57555a850",
+          "title": "Codexライフを劇的に変える２つの神ツール：開発生産性を最大化する実践ガイド",
           "likes": 3,
           "stocks": 2
         }
@@ -698,6 +552,30 @@
       ]
     },
     {
+      "id": "bd349479966f7b4c856c75c03b0690b1",
+      "title": "【Linux入門",
+      "mentions": 2,
+      "score": 6,
+      "totalLikes": 2,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "f654e6562612ce34096e",
+          "url": "https://qiita.com/power-chan/items/f654e6562612ce34096e",
+          "title": "【Linux入門】psとtopでプロセス管理してみよう（初心者向け解説）",
+          "likes": 1,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "6c1d00bbcb37846ffd21",
+          "url": "https://qiita.com/power-chan/items/6c1d00bbcb37846ffd21",
+          "title": "【Linux入門】パイプとリダイレクトでコマンドをつなげてみよう（初心者向け解説）",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
       "id": "ba39fdd94398c54187cb646ae37d0a3a",
       "title": "【初心者向け】コンテキストエンジニアリング入門",
       "mentions": 1,
@@ -709,23 +587,6 @@
           "qiitaId": "4ec84d29055fbddca82f",
           "url": "https://qiita.com/nogataka/items/4ec84d29055fbddca82f",
           "title": "【初心者向け】コンテキストエンジニアリング入門 - AIを思い通りに動かす3つの要素",
-          "likes": 2,
-          "stocks": 2
-        }
-      ]
-    },
-    {
-      "id": "02949e6e5064d909df90914068fcfc7a",
-      "title": "Codexライフを劇的に変える２つの神ツール：開発生産性を最大化する実践",
-      "mentions": 1,
-      "score": 4,
-      "totalLikes": 2,
-      "totalStocks": 2,
-      "sources": [
-        {
-          "qiitaId": "a5a0074b06c57555a850",
-          "url": "https://qiita.com/nogataka/items/a5a0074b06c57555a850",
-          "title": "Codexライフを劇的に変える２つの神ツール：開発生産性を最大化する実践ガイド",
           "likes": 2,
           "stocks": 2
         }
@@ -1021,23 +882,6 @@
       ]
     },
     {
-      "id": "b66d9c402413ea703da4d53e3c70910c",
-      "title": "Wizard Floorplan開発入門",
-      "mentions": 1,
-      "score": 3,
-      "totalLikes": 1,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "qiitaId": "0ff9910c2772078c02be",
-          "url": "https://qiita.com/kurigohan0202/items/0ff9910c2772078c02be",
-          "title": "Wizard Floorplan開発入門 ～品目マスタ登録アプリを作ってみた～",
-          "likes": 1,
-          "stocks": 0
-        }
-      ]
-    },
-    {
       "id": "83c21fa0cb85c2b0c201a072cd42cd40",
       "title": "Excel VBAユーザーのためのC#構文入門",
       "mentions": 3,
@@ -1148,26 +992,36 @@
       ]
     },
     {
-      "id": "9d0357d1bbc3aaafe6cebc3d8c50e501",
-      "title": "【演習弐・実践",
-      "mentions": 2,
-      "score": 4,
+      "id": "130cf000730f8d767adb7f114d08a40b",
+      "title": "【セキュリティ】Nmap — 高度ポートスキャン入門",
+      "mentions": 1,
+      "score": 2,
       "totalLikes": 0,
-      "totalStocks": 1,
+      "totalStocks": 0,
       "sources": [
         {
-          "qiitaId": "1822c0b5a33908e3568d",
-          "url": "https://qiita.com/jg1mnv/items/1822c0b5a33908e3568d",
-          "title": "【演習弐・実践編完結編】量子乱数は市場の異変を感じ取るのか？IBM量子実機での検証",
+          "qiitaId": "a1b56517ad3604c2072f",
+          "url": "https://qiita.com/nozomi2025/items/a1b56517ad3604c2072f",
+          "title": "【セキュリティ】Nmap — 高度ポートスキャン入門",
           "likes": 0,
           "stocks": 0
-        },
+        }
+      ]
+    },
+    {
+      "id": "bfc6fa9a3c47d265ae18cc0b67b9db5c",
+      "title": "Burp Suite入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
         {
-          "qiitaId": "221bcc0a62fa1e954e78",
-          "url": "https://qiita.com/jg1mnv/items/221bcc0a62fa1e954e78",
-          "title": "【演習弐・実践編其の弐】量子コンピュータで株価予測に挑んだら、バックテストの罠にハマった話",
+          "qiitaId": "5e85256d46dc2aa455a8",
+          "url": "https://qiita.com/cho-tehu/items/5e85256d46dc2aa455a8",
+          "title": "Burp Suite入門：リクエスト改ざんで理解するSQLインジェクションの危険性",
           "likes": 0,
-          "stocks": 1
+          "stocks": 0
         }
       ]
     },
@@ -1234,6 +1088,23 @@
           "qiitaId": "79896a613be3be780ca5",
           "url": "https://qiita.com/naoya475866/items/79896a613be3be780ca5",
           "title": "Java入門基礎",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "8c4537f9a73bada751425cb54ff81db6",
+      "title": "vLLM",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "4833ba94d1c9eb959329",
+          "url": "https://qiita.com/Junichiro_Morita/items/4833ba94d1c9eb959329",
+          "title": "松尾研 LLM開発コンペ2025で学んだ「vLLM」入門 ― Transformersとの違いと実践 ―",
           "likes": 0,
           "stocks": 0
         }
@@ -1767,6 +1638,23 @@
       ]
     },
     {
+      "id": "9d0357d1bbc3aaafe6cebc3d8c50e501",
+      "title": "【演習弐・実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "1822c0b5a33908e3568d",
+          "url": "https://qiita.com/jg1mnv/items/1822c0b5a33908e3568d",
+          "title": "【演習弐・実践編完結編】量子乱数は市場の異変を感じ取るのか？IBM量子実機での検証",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
       "id": "68948fe050b555078be3f8aaa599721b",
       "title": "【Kotlin】Kotlin Symbol Processing (KSP) 完全入門",
       "mentions": 1,
@@ -2084,23 +1972,6 @@
           "qiitaId": "bca8d838ab920c0e9ecb",
           "url": "https://qiita.com/comty/items/bca8d838ab920c0e9ecb",
           "title": "【再発ゼロ設計】田園都市線“10年放置の設定ミス”から学ぶ：IT開発のエラー検知と運用改善の実践",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "c8c9cedaf9b9bd79412d37e2cf8dc347",
-      "title": "アルゴリズム入門",
-      "mentions": 1,
-      "score": 2,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "qiitaId": "fe754acd2905dffa3acb",
-          "url": "https://qiita.com/juna1013/items/fe754acd2905dffa3acb",
-          "title": "アルゴリズム入門(1) - 基本ソート編",
           "likes": 0,
           "stocks": 0
         }
