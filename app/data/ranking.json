@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-21T05:11:48.931Z",
+  "generatedAt": "2025-10-21T05:40:39.076Z",
   "source": [
     "qiita",
     "hatena"
@@ -9,15 +9,15 @@
       "id": "13e138c95f1c7f467f26f1b375615303",
       "title": "10個のなぜ？",
       "mentions": 1,
-      "score": 66,
-      "totalLikes": 64,
+      "score": 68,
+      "totalLikes": 66,
       "totalStocks": 57,
       "sources": [
         {
           "qiitaId": "3f21c850ddc02636b34c",
           "url": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c",
           "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
-          "likes": 64,
+          "likes": 66,
           "stocks": 57
         }
       ]
@@ -96,6 +96,62 @@
       ]
     },
     {
+      "id": "f1c3017168f98797d0c1a279ab782928",
+      "title": "自分を律する姿勢、地方も中央も欠けている",
+      "mentions": 4,
+      "score": 20,
+      "totalLikes": 12,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.sankei.com/article/20251021-OIXFVTMYXNPQLCF6NS4OIUD524/",
+          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/17a8a406c71dadb4ccbd9669f791af1356791a65",
+          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」（産経新聞） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.sankei.com/article/20251021-OIXFVTMYXNPQLCF6NS4OIUD524/",
+          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/17a8a406c71dadb4ccbd9669f791af1356791a65",
+          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」（産経新聞） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "04640b71b83d88e90b280d83590bc8b4",
+      "title": "短絡的な",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.yomiuri.co.jp/local/kyushu/news/20251020-OYTNT50020/",
+          "title": "工期に追われ「短絡的な」放火、投資額・数十億円の半導体関連工場は改修再開のめど立たず…うなだれる被告",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.yomiuri.co.jp/local/kyushu/news/20251020-OYTNT50020/",
+          "title": "工期に追われ「短絡的な」放火、投資額・数十億円の半導体関連工場は改修再開のめど立たず…うなだれる被告",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
       "id": "32da57a2b9bb936e41adfcc9f8989d43",
       "title": "久々に本物の悲報を見た",
       "mentions": 2,
@@ -118,22 +174,44 @@
       ]
     },
     {
-      "id": "f1c3017168f98797d0c1a279ab782928",
-      "title": "自分を律する姿勢、地方も中央も欠けている",
+      "id": "2856bb9296eea6cb0dc7f1918fa5e901",
+      "title": "女の時代",
       "mentions": 2,
       "score": 10,
       "totalLikes": 6,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://news.yahoo.co.jp/articles/17a8a406c71dadb4ccbd9669f791af1356791a65",
-          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」（産経新聞） - Yahoo!ニュース",
+          "url": "https://www.asahi.com/articles/ASTBN0PNDTBNUTFL00NM.html",
+          "title": "「女の時代」の矛盾を体現する高市氏　保守がガラスの天井破った理由：朝日新聞",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://news.yahoo.co.jp/articles/17a8a406c71dadb4ccbd9669f791af1356791a65",
-          "title": "村上誠一郎氏、総務相退任会見で男泣き「自分を律する姿勢、地方も中央も欠けている」（産経新聞） - Yahoo!ニュース",
+          "url": "https://www.asahi.com/articles/ASTBN0PNDTBNUTFL00NM.html",
+          "title": "「女の時代」の矛盾を体現する高市氏　保守がガラスの天井破った理由：朝日新聞",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "1ed6000a98caa31c505e6fb5edc2e591",
+      "title": "狩り",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.nikkei.com/article/DGXZQOSG17AL30X11C25A0000000/",
+          "title": "ウナギが陸上で「狩り」、東京大学が発見　虫やトカゲ食べる - 日本経済新聞",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.nikkei.com/article/DGXZQOSG17AL30X11C25A0000000/",
+          "title": "ウナギが陸上で「狩り」、東京大学が発見　虫やトカゲ食べる - 日本経済新聞",
           "likes": 3,
           "stocks": 0
         }
@@ -156,6 +234,28 @@
         {
           "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2056544.html",
           "title": "パスワードは、特殊文字などの「複雑さ」ではなく「長さ」を求めることを推奨 〜NISTがガイドライン更新【やじうまWatch】",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "9507400b7588a3d45c4bd7065ec1bc66",
+      "title": "男の悪事を女で表現するな",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news046.html",
+          "title": "「男の悪事を女で表現するな」で炎上した「炎上展」、キービジュアルの制作意図は？　運営に聞いた",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news046.html",
+          "title": "「男の悪事を女で表現するな」で炎上した「炎上展」、キービジュアルの制作意図は？　運営に聞いた",
           "likes": 3,
           "stocks": 0
         }
@@ -332,116 +432,6 @@
         {
           "url": "https://bunshun.jp/articles/-/83008",
           "title": "「やっぱりミャクミャクの正体は怖かった」自民党幹部は維新に「あの時の借りを返してほしい」と…政治の取引に使われた大阪万博の末路 | 文春オンライン",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "89b029f73dc4978511673d4c7a09117b",
-      "title": "イベント行こう",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://levtech.jp/media/article/interview/detail_742/",
-          "title": "「イベント行こう」のやらされ感をなくす。ゼロから技術発信文化を組織に根付かせた方法【ログラス飯田意己】",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://levtech.jp/media/article/interview/detail_742/",
-          "title": "「イベント行こう」のやらされ感をなくす。ゼロから技術発信文化を組織に根付かせた方法【ログラス飯田意己】",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "35cd078f147bf4268408d122293f1905",
-      "title": "横浜君嶋屋",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://onaji.me/entry/2025/10/21",
-          "title": "横浜で133年続く老舗酒屋「横浜君嶋屋」に学ぶ集客術。「角打ち」からLINE活用まで - おなじみ丨近くの店から、なじみの店へ。",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://onaji.me/entry/2025/10/21",
-          "title": "横浜で133年続く老舗酒屋「横浜君嶋屋」に学ぶ集客術。「角打ち」からLINE活用まで - おなじみ丨近くの店から、なじみの店へ。",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "42f9be3809e8d26d0e12ad07da7236eb",
-      "title": "断絶宣言",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://mainichi.jp/articles/20251018/k00/00m/010/135000c",
-          "title": "旧統一教会、自民「断絶宣言」後も政界接近　高市氏「教義分からぬ」 | 毎日新聞",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://mainichi.jp/articles/20251018/k00/00m/010/135000c",
-          "title": "旧統一教会、自民「断絶宣言」後も政界接近　高市氏「教義分からぬ」 | 毎日新聞",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "acca9dc72c507de8400a1583cfc56fe9",
-      "title": "トラックのエンジンをEVにできるの？",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://posfie.com/@taimport/p/QnhwKfy",
-          "title": "トラック業界の人に訊いた。私「トラックのエンジンをEVにできるの？」運送屋「無理に決まってるだろ！重い荷物を運び長距離を走るんだぞ？バッテリーが巨大化して運べる荷物が減って本末転倒だ！」→有識者からコメントが続々",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://posfie.com/@taimport/p/QnhwKfy",
-          "title": "トラック業界の人に訊いた。私「トラックのエンジンをEVにできるの？」運送屋「無理に決まってるだろ！重い荷物を運び長距離を走るんだぞ？バッテリーが巨大化して運べる荷物が減って本末転倒だ！」→有識者からコメントが続々",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "e0d8f6d8f2a1844d6f3a577d15fc4458",
-      "title": "女を専業主婦にしたがる",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://courrier.jp/news/archives/418717/",
-          "title": "ヒトラーからトランプまで…独裁者はなぜ「女を専業主婦にしたがる」のか | ナチスの母性賛美からMAGAのウーマノスフィアへ",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://courrier.jp/news/archives/418717/",
-          "title": "ヒトラーからトランプまで…独裁者はなぜ「女を専業主婦にしたがる」のか | ナチスの母性賛美からMAGAのウーマノスフィアへ",
           "likes": 3,
           "stocks": 0
         }
