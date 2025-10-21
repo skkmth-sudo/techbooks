@@ -1,0 +1,2142 @@
+{
+  "generatedAt": "2025-10-21T03:45:07.109Z",
+  "source": [
+    "qiita",
+    "hatena"
+  ],
+  "ranking": [
+    {
+      "id": "13e138c95f1c7f467f26f1b375615303",
+      "title": "10個のなぜ？",
+      "mentions": 1,
+      "score": 64,
+      "totalLikes": 62,
+      "totalStocks": 55,
+      "sources": [
+        {
+          "qiitaId": "3f21c850ddc02636b34c",
+          "url": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c",
+          "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
+          "likes": 62,
+          "stocks": 55
+        }
+      ]
+    },
+    {
+      "id": "8f3ae1fc41417ad68562c46bdc00571f",
+      "title": "Rust入門",
+      "mentions": 9,
+      "score": 54,
+      "totalLikes": 36,
+      "totalStocks": 21,
+      "sources": [
+        {
+          "qiitaId": "5bb75e051383a1ec33f8",
+          "url": "https://qiita.com/kazaf91/items/5bb75e051383a1ec33f8",
+          "title": "Rust入門講座⑨（Final）非同期処理・マクロ定義",
+          "likes": 3,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "d49cdee4ce53a4738f2b",
+          "url": "https://qiita.com/kazaf91/items/d49cdee4ce53a4738f2b",
+          "title": "Rust入門講座⑧参照カウンタ・マルチスレッド・rayonクレート",
+          "likes": 2,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "bac94fb32eed0ef180ba",
+          "url": "https://qiita.com/kazaf91/items/bac94fb32eed0ef180ba",
+          "title": "Rust入門講座⑦ユーティリティトレイト・アトリビュート・ドキュメンテーション",
+          "likes": 3,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "24f93a0731daec547543",
+          "url": "https://qiita.com/kazaf91/items/24f93a0731daec547543",
+          "title": "Rust入門講座⑥クレート・モジュール・テスト・ワークスペース",
+          "likes": 4,
+          "stocks": 2
+        },
+        {
+          "qiitaId": "0039e5109cd588a79d54",
+          "url": "https://qiita.com/kazaf91/items/0039e5109cd588a79d54",
+          "title": "Rust入門講座⑤文字列・ライフタイムパラメータ・マクロ",
+          "likes": 3,
+          "stocks": 2
+        },
+        {
+          "qiitaId": "a0ab7c24a16ffc67900d",
+          "url": "https://qiita.com/kazaf91/items/a0ab7c24a16ffc67900d",
+          "title": "Rust入門講座④Result・Option・クロージャ・スライス",
+          "likes": 2,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "5e15ad3a18bfbcbcb75d",
+          "url": "https://qiita.com/kazaf91/items/5e15ad3a18bfbcbcb75d",
+          "title": "Rust入門講座③所有権・ライフタイム・借用チェッカー・参照外し",
+          "likes": 2,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "7ca6984e45e20577cc33",
+          "url": "https://qiita.com/kazaf91/items/7ca6984e45e20577cc33",
+          "title": "Rust入門講座②基本的な型・トレイト・ジェネリクス",
+          "likes": 3,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "89c0272e7c8647a439e1",
+          "url": "https://qiita.com/kazaf91/items/89c0272e7c8647a439e1",
+          "title": "Rust入門講座①Rustの紹介および基本",
+          "likes": 14,
+          "stocks": 11
+        }
+      ]
+    },
+    {
+      "id": "81c64965e34a83d195991442297d0cf5",
+      "title": "トードカティン祭り",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.syokuraku-web.com/column/116356/",
+          "title": "約60もの屋台でタイ料理がすべて無料！ 成田のタイ寺院が主宰する「トードカティン祭り」に潜入してきた",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.syokuraku-web.com/column/116356/",
+          "title": "約60もの屋台でタイ料理がすべて無料！ 成田のタイ寺院が主宰する「トードカティン祭り」に潜入してきた",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "519e6037b8926c0c0a71e867e76974e6",
+      "title": "アイツらやり返されることを想定してないから怯む",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618516",
+          "title": "ヤバイ奴への対処として、そいつの行動を上回るヤバイ行動をすれば撃退できるという話「アイツらやり返されることを想定してないから怯む」「バケモンにはバケモンぶつけんだよ」",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618516",
+          "title": "ヤバイ奴への対処として、そいつの行動を上回るヤバイ行動をすれば撃退できるという話「アイツらやり返されることを想定してないから怯む」「バケモンにはバケモンぶつけんだよ」",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "35cd078f147bf4268408d122293f1905",
+      "title": "横浜君嶋屋",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://onaji.me/entry/2025/10/21",
+          "title": "横浜で133年続く老舗酒屋「横浜君嶋屋」に学ぶ集客術。「角打ち」からLINE活用まで - おなじみ丨近くの店から、なじみの店へ。",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://onaji.me/entry/2025/10/21",
+          "title": "横浜で133年続く老舗酒屋「横浜君嶋屋」に学ぶ集客術。「角打ち」からLINE活用まで - おなじみ丨近くの店から、なじみの店へ。",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "42f9be3809e8d26d0e12ad07da7236eb",
+      "title": "断絶宣言",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://mainichi.jp/articles/20251018/k00/00m/010/135000c",
+          "title": "旧統一教会、自民「断絶宣言」後も政界接近　高市氏「教義分からぬ」 | 毎日新聞",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://mainichi.jp/articles/20251018/k00/00m/010/135000c",
+          "title": "旧統一教会、自民「断絶宣言」後も政界接近　高市氏「教義分からぬ」 | 毎日新聞",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "b5d36af2a1c49dc17491089d5e785021",
+      "title": "サブエージェント",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://kaminashi-developer.hatenablog.jp/entry/dev-camp-claude-subagents",
+          "title": "開発合宿で Claude Codeの「サブエージェント」について学んだ話 - カミナシ エンジニアブログ",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://kaminashi-developer.hatenablog.jp/entry/dev-camp-claude-subagents",
+          "title": "開発合宿で Claude Codeの「サブエージェント」について学んだ話 - カミナシ エンジニアブログ",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "6850a5248a8242b093de1f1126f02b28",
+      "title": "ランドホッパー",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://car.watch.impress.co.jp/docs/news/2056504.html",
+          "title": "トヨタ、新型ランクルFJにも搭載できる折りたたみ式電動パーソナルモビリティ「ランドホッパー」開発中",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://car.watch.impress.co.jp/docs/news/2056504.html",
+          "title": "トヨタ、新型ランクルFJにも搭載できる折りたたみ式電動パーソナルモビリティ「ランドホッパー」開発中",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "bb18e64d7ff993cbf63ba956673fd8bf",
+      "title": "飛行機って世界一事故の少ない乗り物なんすよ",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618493",
+          "title": "なんで飛行機って新幹線より安いの？落ちるから？→様々な理由がある模様「飛行機って世界一事故の少ない乗り物なんすよ」",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618493",
+          "title": "なんで飛行機って新幹線より安いの？落ちるから？→様々な理由がある模様「飛行機って世界一事故の少ない乗り物なんすよ」",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "887deca02020ac2effcd7d726a592216",
+      "title": "生きがい",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618491",
+          "title": "50代前半で亡くなった一人のアイドルオタクの話… 故人の部屋には必要最低限の家具しかなかったが、押し入れには大量のチェキがあり「生きがい」だったんだなあと感じた",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618491",
+          "title": "50代前半で亡くなった一人のアイドルオタクの話… 故人の部屋には必要最低限の家具しかなかったが、押し入れには大量のチェキがあり「生きがい」だったんだなあと感じた",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "43ab9fb77c910642a7e42ecd799e8331",
+      "title": "少し特別な商品を買い取りました。震災時、任天堂さんが避難所生活の人のために寄付したDSi LLです",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618502",
+          "title": "ハードオフ石巻店『少し特別な商品を買い取りました。震災時、任天堂さんが避難所生活の人のために寄付したDSi LLです』→賛否両論の意見があがる",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618502",
+          "title": "ハードオフ石巻店『少し特別な商品を買い取りました。震災時、任天堂さんが避難所生活の人のために寄付したDSi LLです』→賛否両論の意見があがる",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "c99f05142f0eb6ea26254efd3d97d439",
+      "title": "とほほのWWW入門",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2056489.html",
+          "title": "AI時代に突入した「とほほのWWW入門」に早くもGoogle製AIツール3種の解説が追加／「Google AI Studio」、「NotebookLM」、「Google Opal」を入門者向けに解説【やじうまの杜】",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2056489.html",
+          "title": "AI時代に突入した「とほほのWWW入門」に早くもGoogle製AIツール3種の解説が追加／「Google AI Studio」、「NotebookLM」、「Google Opal」を入門者向けに解説【やじうまの杜】",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "a3775f559f3e2632d93c7a7e7f0dcedd",
+      "title": "一噛みで腕をやられた",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.cnn.co.jp/world/35239428.html",
+          "title": "ランナーが森でクマと格闘、「一噛みで腕をやられた」　日本・妙高",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.cnn.co.jp/world/35239428.html",
+          "title": "ランナーが森でクマと格闘、「一噛みで腕をやられた」　日本・妙高",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "45989d5a9ab2ee5c93d3f2e892929451",
+      "title": "放送のウラに通信アリ展",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2056434.html",
+          "title": "鉱石ラジオの音も聴ける、 KDDI MUSEUMで特別展「放送のウラに通信アリ展」",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2056434.html",
+          "title": "鉱石ラジオの音も聴ける、 KDDI MUSEUMで特別展「放送のウラに通信アリ展」",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "ef5277c2dba771b0320249b402b93811",
+      "title": "95％のAIプロジェクトが失敗",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://internet.watch.impress.co.jp/docs/event/2056360.html",
+          "title": "「95％のAIプロジェクトが失敗」の壁をどう超える？　Uber、アニメ業界、ソフトバンクのAI最前線【CEATEC 2025】",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://internet.watch.impress.co.jp/docs/event/2056360.html",
+          "title": "「95％のAIプロジェクトが失敗」の壁をどう超える？　Uber、アニメ業界、ソフトバンクのAI最前線【CEATEC 2025】",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "aa6224c0cd0e137b3d7bb6abd298ac09",
+      "title": "ランドクルーザー“FJ”",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://car.watch.impress.co.jp/docs/news/2056502.html",
+          "title": "トヨタ、新型「ランドクルーザー“FJ”」世界初公開 ランクルも群でグローバル展開、日本発売は2026年の年央予定",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://car.watch.impress.co.jp/docs/news/2056502.html",
+          "title": "トヨタ、新型「ランドクルーザー“FJ”」世界初公開 ランクルも群でグローバル展開、日本発売は2026年の年央予定",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "40b699d01859882b7385f16a42ed499c",
+      "title": "国旗損壊罪",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.nikkei.com/article/DGXZQOUA209Z90Q5A021C2000000/",
+          "title": "「国旗損壊罪」制定へ26年通常国会に法案　自民党・維新合意 - 日本経済新聞",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.nikkei.com/article/DGXZQOUA209Z90Q5A021C2000000/",
+          "title": "「国旗損壊罪」制定へ26年通常国会に法案　自民党・維新合意 - 日本経済新聞",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "3955867bf0ed687b8781905de03e43b9",
+      "title": "プライバシーサンドボックス技術",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://gigazine.net/news/20251021-chrome-privacy-sandbox-retire/",
+          "title": "GoogleがChromeの「プライバシーサンドボックス技術」廃止を決定",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://gigazine.net/news/20251021-chrome-privacy-sandbox-retire/",
+          "title": "GoogleがChromeの「プライバシーサンドボックス技術」廃止を決定",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "ef0fb8ff7f7e2c5fc8b11e9071b4d8bf",
+      "title": "何も産み出してないのに給与が高い業界って、思い当たりますか？",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://news.yahoo.co.jp/articles/41417968f88dc71b569e7d2a4462c30d7cc6863b",
+          "title": "前澤友作氏「何も産み出してないのに給与が高い業界って、思い当たりますか？」（スポニチアネックス） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/41417968f88dc71b569e7d2a4462c30d7cc6863b",
+          "title": "前澤友作氏「何も産み出してないのに給与が高い業界って、思い当たりますか？」（スポニチアネックス） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "0d5bb613ce3c925827ffd1283707fe2b",
+      "title": "AutoGPT × OODAループ【実践",
+      "mentions": 1,
+      "score": 7,
+      "totalLikes": 5,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "dae05eb6eebafe049bff",
+          "url": "https://qiita.com/ota-tsutomu/items/dae05eb6eebafe049bff",
+          "title": "AutoGPT × OODAループ【実践＆応用編】思考と行動をエージェント化する仕組みを考えてみる",
+          "likes": 5,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "1d61b320f9180c16257287e746966776",
+      "title": "UnityでC++を使う：C#との違いと実践",
+      "mentions": 1,
+      "score": 7,
+      "totalLikes": 5,
+      "totalStocks": 5,
+      "sources": [
+        {
+          "qiitaId": "fe17b0b2dac24a378301",
+          "url": "https://qiita.com/game-tsukuru/items/fe17b0b2dac24a378301",
+          "title": "UnityでC++を使う：C#との違いと実践手順をまとめてみた",
+          "likes": 5,
+          "stocks": 5
+        }
+      ]
+    },
+    {
+      "id": "0994b4b1e3b3b701a55823a36c6890ca",
+      "title": "Vibe Codingの限界",
+      "mentions": 1,
+      "score": 7,
+      "totalLikes": 5,
+      "totalStocks": 4,
+      "sources": [
+        {
+          "qiitaId": "b2c2cb475fa28333b56a",
+          "url": "https://qiita.com/nogataka/items/b2c2cb475fa28333b56a",
+          "title": "AI時代の新常識：「Vibe Codingの限界」と「SDD - 仕様駆動開発 / スペック駆動開発」の実践",
+          "likes": 5,
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "id": "7cbb61349eea2dd21cc63e1aa167188f",
+      "title": "Amazon Bedrock GuardrailsによるAIエージェントの安全対策入門",
+      "mentions": 1,
+      "score": 7,
+      "totalLikes": 5,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "e4ca8be64afb984c5a68",
+          "url": "https://qiita.com/eno49conan/items/e4ca8be64afb984c5a68",
+          "title": "Amazon Bedrock GuardrailsによるAIエージェントの安全対策入門！",
+          "likes": 5,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "886b396e2d7a6fb77602859af3aae158",
+      "title": "BigQueryで使えるストアドプロシージャ入門",
+      "mentions": 1,
+      "score": 6,
+      "totalLikes": 4,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "b9dc90aaa9ba40cad440",
+          "url": "https://qiita.com/remilialiu/items/b9dc90aaa9ba40cad440",
+          "title": "BigQueryで使えるストアドプロシージャ入門：再利用・自動化・セキュリティに効く！",
+          "likes": 4,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "cf1b67d574b60b1db01293a99d67ac8b",
+      "title": "コーディングエージェント時代のコンテキストエンジニアリング実践",
+      "mentions": 1,
+      "score": 6,
+      "totalLikes": 4,
+      "totalStocks": 4,
+      "sources": [
+        {
+          "qiitaId": "15206e0c01426e953026",
+          "url": "https://qiita.com/nogataka/items/15206e0c01426e953026",
+          "title": "コーディングエージェント時代のコンテキストエンジニアリング実践ガイド",
+          "likes": 4,
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "id": "c8d58288c24d6ccdbce6ff6abd33bd15",
+      "title": "失われた30年から脱却？日本経済の長期トレンドと政策の節目を可視化 ",
+      "mentions": 1,
+      "score": 6,
+      "totalLikes": 4,
+      "totalStocks": 5,
+      "sources": [
+        {
+          "qiitaId": "c1bb37e6c852ac76b718",
+          "url": "https://qiita.com/maskot1977/items/c1bb37e6c852ac76b718",
+          "title": "失われた30年から脱却？日本経済の長期トレンドと政策の節目を可視化 : Pythonで学ぶ マクロ経済学入門 (22)",
+          "likes": 4,
+          "stocks": 5
+        }
+      ]
+    },
+    {
+      "id": "bd349479966f7b4c856c75c03b0690b1",
+      "title": "【Linux入門",
+      "mentions": 3,
+      "score": 9,
+      "totalLikes": 3,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "f654e6562612ce34096e",
+          "url": "https://qiita.com/power-chan/items/f654e6562612ce34096e",
+          "title": "【Linux入門】psとtopでプロセス管理してみよう（初心者向け解説）",
+          "likes": 1,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "6c1d00bbcb37846ffd21",
+          "url": "https://qiita.com/power-chan/items/6c1d00bbcb37846ffd21",
+          "title": "【Linux入門】パイプとリダイレクトでコマンドをつなげてみよう（初心者向け解説）",
+          "likes": 1,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "a36802af57eae22bbfe1",
+          "url": "https://qiita.com/power-chan/items/a36802af57eae22bbfe1",
+          "title": "【Linux入門】findコマンドでファイルを探そう（初心者向け解説）",
+          "likes": 1,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "7e7db55425f241c2e71c427796126122",
+      "title": "PythonではじめるMCP開発入門",
+      "mentions": 2,
+      "score": 7,
+      "totalLikes": 3,
+      "totalStocks": 4,
+      "sources": [
+        {
+          "qiitaId": "9d3e740d1fe992075bad",
+          "url": "https://qiita.com/kaizen_nagoya/items/9d3e740d1fe992075bad",
+          "title": "PythonではじめるMCP開発入門 GitHubから始める Anaconda編",
+          "likes": 0,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "263ac2f93519e9e000c3",
+          "url": "https://qiita.com/kaizen_nagoya/items/263ac2f93519e9e000c3",
+          "title": "「PythonではじめるMCP開発入門」の前に with ChatGPT",
+          "likes": 3,
+          "stocks": 3
+        }
+      ]
+    },
+    {
+      "id": "280171423489181bae96d26a1824c487",
+      "title": "Water-Scrum-Fastを実践",
+      "mentions": 1,
+      "score": 5,
+      "totalLikes": 3,
+      "totalStocks": 2,
+      "sources": [
+        {
+          "qiitaId": "280308e28ed389ec821d",
+          "url": "https://qiita.com/nogataka/items/280308e28ed389ec821d",
+          "title": "Water-Scrum-Fastを実践して分かった10の教訓 〜AI駆動開発の落とし穴と成功パターン〜",
+          "likes": 3,
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "id": "3d4db0d3179064596931e17e3f6cd30b",
+      "title": "【AWSコンテナ入門",
+      "mentions": 5,
+      "score": 12,
+      "totalLikes": 2,
+      "totalStocks": 3,
+      "sources": [
+        {
+          "qiitaId": "4720a4c5bb5bdf3d3bc0",
+          "url": "https://qiita.com/pommny_dev/items/4720a4c5bb5bdf3d3bc0",
+          "title": "【AWSコンテナ入門】④ロードバランサーとECSサービスを接続して超簡単なアプリを動かしてみる",
+          "likes": 0,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "ce18cb913594fab6cc51",
+          "url": "https://qiita.com/pommny_dev/items/ce18cb913594fab6cc51",
+          "title": "【AWSコンテナ入門】③AWS Batch（Fargate）でS3上のアクセスログの集計実施してみた",
+          "likes": 0,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "7befd257b07cbf323cb2",
+          "url": "https://qiita.com/pommny_dev/items/7befd257b07cbf323cb2",
+          "title": "【AWSコンテナ入門】②ECSで簡単なタスクを実行してみる",
+          "likes": 0,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "f15592a0de07f41873f2",
+          "url": "https://qiita.com/pommny_dev/items/f15592a0de07f41873f2",
+          "title": "【AWSコンテナ入門】①GitHub Actionを使って、ECRにDocker ImageをPushしてみる",
+          "likes": 2,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "f61924915c242a7bca5f",
+          "url": "https://qiita.com/AowuShuoji/items/f61924915c242a7bca5f",
+          "title": "【AWSコンテナ入門】ECSでS3のファイルをSFTPサーバに自動転送",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "93ffe2a7d4155aa3cded0006d78d1534",
+      "title": "Go入門",
+      "mentions": 2,
+      "score": 6,
+      "totalLikes": 2,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "5a3f845518767f08f1d0",
+          "url": "https://qiita.com/myaX/items/5a3f845518767f08f1d0",
+          "title": "Go入門 #03:配列とスライスの違いと使い分け",
+          "likes": 1,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "cf53a465cb1a29299d93",
+          "url": "https://qiita.com/myaX/items/cf53a465cb1a29299d93",
+          "title": "Go入門 #02:値型・参照型・ポインタ型の基本",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "ba39fdd94398c54187cb646ae37d0a3a",
+      "title": "【初心者向け】コンテキストエンジニアリング入門",
+      "mentions": 1,
+      "score": 4,
+      "totalLikes": 2,
+      "totalStocks": 2,
+      "sources": [
+        {
+          "qiitaId": "4ec84d29055fbddca82f",
+          "url": "https://qiita.com/nogataka/items/4ec84d29055fbddca82f",
+          "title": "【初心者向け】コンテキストエンジニアリング入門 - AIを思い通りに動かす3つの要素",
+          "likes": 2,
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "id": "02949e6e5064d909df90914068fcfc7a",
+      "title": "Codexライフを劇的に変える２つの神ツール：開発生産性を最大化する実践",
+      "mentions": 1,
+      "score": 4,
+      "totalLikes": 2,
+      "totalStocks": 2,
+      "sources": [
+        {
+          "qiitaId": "a5a0074b06c57555a850",
+          "url": "https://qiita.com/nogataka/items/a5a0074b06c57555a850",
+          "title": "Codexライフを劇的に変える２つの神ツール：開発生産性を最大化する実践ガイド",
+          "likes": 2,
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "id": "8a5f94c2639ed4ad230f1242cd47b2ba",
+      "title": "：Spec-Driven Development × Context Engineering × Runbooks 統合実践",
+      "mentions": 1,
+      "score": 4,
+      "totalLikes": 2,
+      "totalStocks": 4,
+      "sources": [
+        {
+          "qiitaId": "b49371ad3e2f17d9b2e4",
+          "url": "https://qiita.com/nogataka/items/b49371ad3e2f17d9b2e4",
+          "title": "AI時代の開発フレームワーク：Spec-Driven Development × Context Engineering × Runbooks 統合実践編",
+          "likes": 2,
+          "stocks": 4
+        }
+      ]
+    },
+    {
+      "id": "4ef5c5233600f477b8db7ca1ff889d75",
+      "title": "環境構築で挫折させない",
+      "mentions": 1,
+      "score": 4,
+      "totalLikes": 2,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "129edabfe74d69b8ed45",
+          "url": "https://qiita.com/u-10bei/items/129edabfe74d69b8ed45",
+          "title": "「環境構築で挫折させない」実践レシピ",
+          "likes": 2,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "c19c91f391c288de4fe254472a49bba5",
+      "title": "四日で覚えるC言語【Day 6",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "17858ab64f9078f29fee",
+          "url": "https://qiita.com/nano357/items/17858ab64f9078f29fee",
+          "title": "四日で覚えるC言語【Day 6:標準ライブラリ活用と実践関数まとめ】",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "b032afe6fc127229ddb67216a1842740",
+      "title": "AIエージェント開発/運用入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "23c2b4e04ffb1d111000",
+          "url": "https://qiita.com/zzzzico/items/23c2b4e04ffb1d111000",
+          "title": "【良書】「AIエージェント開発/運用入門」のハンズオンをやってみた",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "22ceba68478ad939f17a9459242e0924",
+      "title": "【今更入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "d75e9019767430152dd8",
+          "url": "https://qiita.com/sori883/items/d75e9019767430152dd8",
+          "title": "【今更入門】Amazon Bedrockの概要＆使って学ぶBedrockエージェント",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "d892d116c10720d00c65b4b97eb1047f",
+      "title": "テスト駆動開発から始める機械学習入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "e051e2dcd2fb7fcc3e5c",
+          "url": "https://qiita.com/k2works/items/e051e2dcd2fb7fcc3e5c",
+          "title": "テスト駆動開発から始める機械学習入門",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "a85d6edbbb2c4f5c9c4a88f9a867213f",
+      "title": "React Hooks 入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "f7c4884bd1e70511ec70",
+          "url": "https://qiita.com/yun_bow/items/f7c4884bd1e70511ec70",
+          "title": "React Hooks 入門：モダンなコンポーネント設計を始めよう",
+          "likes": 1,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "118acd316edfb04b187e28f5f91e963a",
+      "title": "pytest入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 2,
+      "sources": [
+        {
+          "qiitaId": "f00e10f8c82a772bb41e",
+          "url": "https://qiita.com/mizuki_note/items/f00e10f8c82a772bb41e",
+          "title": "pytest入門：Pythonで始めるテスト自動化",
+          "likes": 1,
+          "stocks": 2
+        }
+      ]
+    },
+    {
+      "id": "43fe7c3368cf2e97c95ad944e5ddb798",
+      "title": "LINE",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "214c243fe6541cd11b14",
+          "url": "https://qiita.com/frozencatpisces/items/214c243fe6541cd11b14",
+          "title": "LINE: 公式アカウント入門(9): 投稿メッセージへの簡単な応答を設定する",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "b331ac112e94419a450b730234fd78e8",
+      "title": "ティ】File Inclusion（Path Traversal / LFI / RFI）まとめ — 攻撃・解析・回避（実践",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "dced6b1455ed875f0eac",
+          "url": "https://qiita.com/nozomi2025/items/dced6b1455ed875f0eac",
+          "title": "【セキュリティ】File Inclusion（Path Traversal / LFI / RFI）まとめ — 攻撃・解析・回避（実践ガイド）",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "51b344255312648f82ebf86732f8fd8e",
+      "title": "【Git入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "e01b0a62cf6f73b00b0f",
+          "url": "https://qiita.com/dogecoding/items/e01b0a62cf6f73b00b0f",
+          "title": "【Git入門】ブランチを安全にマージする基本手順",
+          "likes": 1,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "d9846f5bbf7bfea2e48aa93e8b901632",
+      "title": "現場で活用するためのAIエージェント実践",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "c10fa1eb6149c66aa36f",
+          "url": "https://qiita.com/RyuGotoo/items/c10fa1eb6149c66aa36f",
+          "title": "現場で活用するためのAIエージェント実践入門【読書ログ】",
+          "likes": 1,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "28b2d3754f8004b53ab4b4acaaa9f893",
+      "title": "Pwn入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "e29e618ee7d92c39c866",
+          "url": "https://qiita.com/Inlet-back/items/e29e618ee7d92c39c866",
+          "title": "Pwn入門：Babystack",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "4ded49d80a90f706a64779793badbc2c",
+      "title": "生成AI再入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "54c3de847002bf6f4481",
+          "url": "https://qiita.com/tech-nami/items/54c3de847002bf6f4481",
+          "title": "生成AI再入門  ～ 生成AIの歴史からAIエージェント間通信まで",
+          "likes": 1,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "4a96ab812763f3259da3203971679b97",
+      "title": "働かない",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "47afaed16359e59910d6",
+          "url": "https://qiita.com/t2murata/items/47afaed16359e59910d6",
+          "title": "【読書感想】貧困と脳　　「働かない」のではなく「働けない」",
+          "likes": 1,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "7042d786862ba92973174adcbfa82aeb",
+      "title": "🧠 Dockerで学ぶ脆弱性演習環境の構築と調査手法入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "5b324f61661c80dc1260",
+          "url": "https://qiita.com/abef/items/5b324f61661c80dc1260",
+          "title": "🧠 Dockerで学ぶ脆弱性演習環境の構築と調査手法入門（Kali × DVWA × Juice Shop）",
+          "likes": 1,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "24f0907e62e2bc34c4382bc00da4e363",
+      "title": "Markdownを用いたAI構築：Gemini CLI実践",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "9b1bca8984369df42fc8",
+          "url": "https://qiita.com/yang_zaiqi/items/9b1bca8984369df42fc8",
+          "title": "Markdownを用いたAI構築：Gemini CLI実践における仕様駆動開発",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "b66d9c402413ea703da4d53e3c70910c",
+      "title": "Wizard Floorplan開発入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "0ff9910c2772078c02be",
+          "url": "https://qiita.com/kurigohan0202/items/0ff9910c2772078c02be",
+          "title": "Wizard Floorplan開発入門 ～品目マスタ登録アプリを作ってみた～",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "83c21fa0cb85c2b0c201a072cd42cd40",
+      "title": "Excel VBAユーザーのためのC#構文入門",
+      "mentions": 3,
+      "score": 6,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "2dcb3ddc72342afc52b3",
+          "url": "https://qiita.com/taisei_design/items/2dcb3ddc72342afc52b3",
+          "title": "Excel VBAユーザーのためのC#構文入門：三項演算子の魅力と注意点",
+          "likes": 0,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "701b1db65fb4cf8f37b3",
+          "url": "https://qiita.com/taisei_design/items/701b1db65fb4cf8f37b3",
+          "title": "Excel VBAユーザーのためのC#構文入門：Substringの違いとよくある混乱ポイント",
+          "likes": 0,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "fcb05a1b53f81eb128bf",
+          "url": "https://qiita.com/taisei_design/items/fcb05a1b53f81eb128bf",
+          "title": "Excel VBAユーザーのためのC#構文入門：Splitの違いとよくある混乱ポイント",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "1def6e1463a926d38ec050d3f51997d8",
+      "title": "やさしいGA入門",
+      "mentions": 3,
+      "score": 6,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "be0d73f023b7ab6a3cee",
+          "url": "https://qiita.com/Leonhard/items/be0d73f023b7ab6a3cee",
+          "title": "やさしいGA入門　第3回：トラブル対応と運用改善で“使えるデータ”にする",
+          "likes": 0,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "4a924b9346ea1bc03800",
+          "url": "https://qiita.com/Leonhard/items/4a924b9346ea1bc03800",
+          "title": "やさしいGA入門　第2回：GTMを使ったGA4設定の流れとUTMパラメータの考え方",
+          "likes": 0,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "432760ffe535bbac02f9",
+          "url": "https://qiita.com/Leonhard/items/432760ffe535bbac02f9",
+          "title": "やさしいGA入門　第1回：GA4とは何か、何ができるのかを理解する",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "a24a4ee69d6ffc5681e0c07c7bb52841",
+      "title": "現場で活用するためのAIエージェント実践入門",
+      "mentions": 2,
+      "score": 4,
+      "totalLikes": 0,
+      "totalStocks": 2,
+      "sources": [
+        {
+          "qiitaId": "8c379e6cf3709579a5bd",
+          "url": "https://qiita.com/segavvy/items/8c379e6cf3709579a5bd",
+          "title": "「現場で活用するためのAIエージェント実践入門」でつまずいたことメモ:4章",
+          "likes": 0,
+          "stocks": 1
+        },
+        {
+          "qiitaId": "c8dcd1b751a7011e22b0",
+          "url": "https://qiita.com/segavvy/items/c8dcd1b751a7011e22b0",
+          "title": "「現場で活用するためのAIエージェント実践入門」でつまずいたことメモ:3章",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "44e6a997b2f5e206b2be7a0c5dfacf4b",
+      "title": "【Python入門",
+      "mentions": 2,
+      "score": 4,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "07550b05b86c4c27e1f1",
+          "url": "https://qiita.com/sky_camellia/items/07550b05b86c4c27e1f1",
+          "title": "【Python入門】オンプレミスMySQLからAWS S3へデータをアップロードしてみた（.env + boto3）",
+          "likes": 0,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "7039bd8e892b031e73f2",
+          "url": "https://qiita.com/Takimizu/items/7039bd8e892b031e73f2",
+          "title": "【Python入門】YouTubeライブの“見逃し配信”を自動で集める簡単スクリプトを作ってみた",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "9d0357d1bbc3aaafe6cebc3d8c50e501",
+      "title": "【演習弐・実践",
+      "mentions": 2,
+      "score": 4,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "1822c0b5a33908e3568d",
+          "url": "https://qiita.com/jg1mnv/items/1822c0b5a33908e3568d",
+          "title": "【演習弐・実践編完結編】量子乱数は市場の異変を感じ取るのか？IBM量子実機での検証",
+          "likes": 0,
+          "stocks": 0
+        },
+        {
+          "qiitaId": "221bcc0a62fa1e954e78",
+          "url": "https://qiita.com/jg1mnv/items/221bcc0a62fa1e954e78",
+          "title": "【演習弐・実践編其の弐】量子コンピュータで株価予測に挑んだら、バックテストの罠にハマった話",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "99a667bfa3a2cf4584aaff8820fb6e72",
+      "title": "【FinOps実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "671e00749d2d91e4ecab",
+          "url": "https://qiita.com/the-salmon-lab/items/671e00749d2d91e4ecab",
+          "title": "【FinOps実践#2】ユーザ定義タグ活用のすすめ（再現性あるAWSコスト設計）",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "21cd3925eb1ba4f2e8cdeec147c6c579",
+      "title": "授業設計エージェントによる授業設計ガイド - 教育理論に基づくAI支援の実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "54bd29eba8f1ebeefb57",
+          "url": "https://qiita.com/hisaho/items/54bd29eba8f1ebeefb57",
+          "title": "授業設計エージェントによる授業設計ガイド - 教育理論に基づくAI支援の実践",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "d706458e224f091d01ccba4501c44fda",
+      "title": "Java入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "79896a613be3be780ca5",
+          "url": "https://qiita.com/naoya475866/items/79896a613be3be780ca5",
+          "title": "Java入門基礎",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "0c0f561222894b558ff1670f6fbe3251",
+      "title": "RESTful API理解者向けのGraphQL入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "0ed9076752ce656c2f0b",
+          "url": "https://qiita.com/kenji-kawata/items/0ed9076752ce656c2f0b",
+          "title": "RESTful API理解者向けのGraphQL入門記事",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "aa6946f6089da48c61b585a67ec84f73",
+      "title": "【プロジェクトマネジメント実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "2870e260941d8eff0464",
+          "url": "https://qiita.com/yu_san/items/2870e260941d8eff0464",
+          "title": "【プロジェクトマネジメント実践】現場で磨いた“失敗しないデータ連携プロジェクトの進め方” ― 要件定義から運用まで、PL視点で導く成功パターンと判断軸 ―",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "1838fc91ba0140b80896555482539fc3",
+      "title": "ーキテクチャの全体像を正しく理解する　― ETL・ELT・Pipeline・ESBをワークロード別に正しく設計するための実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "bb9b2463910c7dcdc56b",
+          "url": "https://qiita.com/yu_san/items/bb9b2463910c7dcdc56b",
+          "title": "【データ連携技術選定】データ連携アーキテクチャの全体像を正しく理解する　― ETL・ELT・Pipeline・ESBをワークロード別に正しく設計するための実践指針 ―",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "96fc806725d28d2486b6f3ecfab14927",
+      "title": "【パフォーマンスチューニング実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "6c0cde5e04c028067b29",
+          "url": "https://qiita.com/yu_san/items/6c0cde5e04c028067b29",
+          "title": "【パフォーマンスチューニング実践】実行時間を半減したDataSpiderチューニング5選　～接続・変数・並列・ログ・構成全体を最適化する実践設計～",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "0e1c7c0b02394712ad05dda8fef410b3",
+      "title": "【Android Studio入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "7ad13fd23297d3be3124",
+          "url": "https://qiita.com/yuta-10112022/items/7ad13fd23297d3be3124",
+          "title": "【Android Studio入門】Logcatでログを使いこなす！効果的なデバッグ術まとめ",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "631caed592ecadbde1f0b46336fe8445",
+      "title": "プロを目指す人のためのTypeScript入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "9bd438ec95add5763858",
+          "url": "https://qiita.com/yosian/items/9bd438ec95add5763858",
+          "title": "【実践編】「プロを目指す人のためのTypeScript入門」を読んで【TS初心者・JS経験者目線】",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "62f07abc28175b3660821509545609a8",
+      "title": "モバイルファースト",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "24322c0fc558b88bf832",
+          "url": "https://qiita.com/sora_akagami/items/24322c0fc558b88bf832",
+          "title": "【フロントエンド1000本ノック】0068_「モバイルファースト」のアプローチでCSSを記述せよ。（まずスマートフォン用のスタイルを書き、min-widthでPC用のスタイルを上書きする）",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "d9c77be4ee41037845406e994c9047c0",
+      "title": "Pythonで学ぶ機械学習 入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "67bd7e21743bd61d1ab8",
+          "url": "https://qiita.com/h_ryuta7085/items/67bd7e21743bd61d1ab8",
+          "title": "Pythonで学ぶ機械学習 入門編 #3: 多項式回帰",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "24a3d9d32bfb189414f48bf317573357",
+      "title": "自動車工学入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "11deb29cb9ff188dd52a",
+          "url": "https://qiita.com/ishikawahijiri/items/11deb29cb9ff188dd52a",
+          "title": "自分用読書メモ「自動車工学入門」",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "317e047f030839bf31ff8e6c5ca896fd",
+      "title": "ロジカルシンキング実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "04701f9624b6b225bd0e",
+          "url": "https://qiita.com/s-ike03/items/04701f9624b6b225bd0e",
+          "title": "ロジカルシンキング実践編",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "fd97484a4c825f970bfd2d0ff3b11062",
+      "title": "生産性を爆上げする【コンテキストエンジニアリング】実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "30920b89a83186f591ac",
+          "url": "https://qiita.com/OhnukiYuu/items/30920b89a83186f591ac",
+          "title": "生産性を爆上げする【コンテキストエンジニアリング】実践ガイド",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "ac0bfad7cd32252a07912cadb29f0fa2",
+      "title": "論文情報からMarkdown、そして総説へ：LangChain×LLM 実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "3a78dfb2d5dd49376c4c",
+          "url": "https://qiita.com/maskot1977/items/3a78dfb2d5dd49376c4c",
+          "title": "論文情報からMarkdown、そして総説へ：LangChain×LLM 実践",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "d4a140e4038c19ee4557423f04a1f758",
+      "title": "【セキュリティ】Burp Suite入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "2718397be7c516db8934",
+          "url": "https://qiita.com/nozomi2025/items/2718397be7c516db8934",
+          "title": "【セキュリティ】Burp Suite入門：Webアプリ脆弱性診断の必須ツール",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "0ff618190500c6b1c6f3ab9aa5f7a201",
+      "title": "【RPGLE × ChatGPT】取引先マスタ参照プログラム作成の実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "f74edf45881f0e46d61b",
+          "url": "https://qiita.com/2025_RiSING_L_Group/items/f74edf45881f0e46d61b",
+          "title": "【RPGLE × ChatGPT】取引先マスタ参照プログラム作成の実践レポート",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "3bc2f1b688cfc1b8c28002a026b074e2",
+      "title": "【React入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "4e473faf66626e816daf",
+          "url": "https://qiita.com/toamoku-20220418/items/4e473faf66626e816daf",
+          "title": "【React入門】useStateの使い方を丁寧に解説！初心者でもわかる状態管理の基本",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "1966ce3c455fc6fde4c515e5ac1cb04a",
+      "title": "Vue3でテストを書く：Vue Test Utilsを使った実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "60f713aca344425029e5",
+          "url": "https://qiita.com/NakajimaSH/items/60f713aca344425029e5",
+          "title": "Vue3でテストを書く：Vue Test Utilsを使った実践的なテスト手法",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "691f9c129f159867cdf7f397df6de732",
+      "title": "Pythonで学ぶ原価管理入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "849301ca2c51c4bebaf2",
+          "url": "https://qiita.com/maskot1977/items/849301ca2c51c4bebaf2",
+          "title": "Pythonで学ぶ原価管理入門：標準原価・実際原価・差異分析を一気に理解",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "eba44c22c0e46f0801c318b847739296",
+      "title": "【超入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "87d667f955452da0798a",
+          "url": "https://qiita.com/nogataka/items/87d667f955452da0798a",
+          "title": "【超入門】Codexの`/compact`コマンドって何？いつ使うの？を図解で理解する",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "c68faf98b22687d3c65998c2c87289d9",
+      "title": "C#/VB.NET：Word文書をXMLへ変換する実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "b3caccb855f44266d5f3",
+          "url": "https://qiita.com/YaHey/items/b3caccb855f44266d5f3",
+          "title": "C#/VB.NET：Word文書をXMLへ変換する実践的アプローチ",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "2119432ab94d2b481f251c537d80c54c",
+      "title": "AWS Organizations 入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "cbaaf0ce5894b46e36f5",
+          "url": "https://qiita.com/shinononononono/items/cbaaf0ce5894b46e36f5",
+          "title": "AWS Organizations 入門",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "c896a1ad540567843d4b2b45e5aff0f0",
+      "title": "SQL超入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "e6bfa016b697c53e07db",
+          "url": "https://qiita.com/morgen-code/items/e6bfa016b697c53e07db",
+          "title": "SQL超入門：基本文法をオンライン実行環境で確認する",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "79a40e9f09ac9cdb21ee812d116e9ee1",
+      "title": "TechZoneで学ぶPodの基本と実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "ed1b01d42dea5e9ffce7",
+          "url": "https://qiita.com/zhang_jintong/items/ed1b01d42dea5e9ffce7",
+          "title": "TechZoneで学ぶPodの基本と実践 ― OpenShiftでのデプロイを体験して理解する",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "63b2c377e7dfc2bf56abb374d0ea64ac",
+      "title": "【2025年版】Android SDカード/外部ストレージ開発の完全ガイド：Scoped Storage、権限管理、実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "b967e9ceb0fcea298b60",
+          "url": "https://qiita.com/yun_bow/items/b967e9ceb0fcea298b60",
+          "title": "【2025年版】Android SDカード/外部ストレージ開発の完全ガイド：Scoped Storage、権限管理、実践パターンを徹底解説",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "38ecec444044b1b3410d4d3d7a3f6125",
+      "title": "LLM 講座受講者のためのPython, JupyterNotebook入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "b5677452155d655a0d58",
+          "url": "https://qiita.com/kaizen_nagoya/items/b5677452155d655a0d58",
+          "title": "LLM 講座受講者のためのPython, JupyterNotebook入門",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "a15ce6403d390af79de6eb87e66aafb2",
+      "title": "C-VAEで始める分子生成入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "a512633e4dcd9ee8405f",
+          "url": "https://qiita.com/maskot1977/items/a512633e4dcd9ee8405f",
+          "title": "C-VAEで始める分子生成入門：既存データから新分子を作るPythonチュートリアル",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "53918d3612567891478029eefb50db08",
+      "title": "Node.js完全入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "9cbccf39b59c6d47331a",
+          "url": "https://qiita.com/rvonzin0727/items/9cbccf39b59c6d47331a",
+          "title": "Node.js完全入門ガイド　〜はじめに〜",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "d7ad2055656c114c85823dbad3f67250",
+      "title": "【AWS認定資格12冠】未経験SEが全冠取得するまでに実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "3575f758ce52a6361f87",
+          "url": "https://qiita.com/naosuke_7307/items/3575f758ce52a6361f87",
+          "title": " 【AWS認定資格12冠】未経験SEが全冠取得するまでに実践した、モチベーション維持の考え方について",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "a26910e45e7671765c4b946133ddc1bc",
+      "title": "Vuetify × バイブコーディング：AIエージェント指示で業務システムのUIを洗練させるための実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "88225254870a16aadf20",
+          "url": "https://qiita.com/riiiii/items/88225254870a16aadf20",
+          "title": "Vuetify × バイブコーディング：AIエージェント指示で業務システムのUIを洗練させるための実践ガイド",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "5718a0fc2b31709f57fbcd19ddfcd011",
+      "title": "Bootstrapに入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "2c760713955964e46c8b",
+          "url": "https://qiita.com/ktdatascience/items/2c760713955964e46c8b",
+          "title": "Bootstrapに入門する",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "43d8ed6a781fa6052321ce66750a958d",
+      "title": "Javaで学ぶオブジェクト指向プログラミング入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "49ac581aaa272dcddb4a",
+          "url": "https://qiita.com/lil_suzuchan/items/49ac581aaa272dcddb4a",
+          "title": "Javaで学ぶオブジェクト指向プログラミング入門",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "e26f6648c0b157589682a8b4829183c1",
+      "title": "IBM i の権限設計を“ムダなく、迷わず”進めるための実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "2580cd281ae1a400ce9a",
+          "url": "https://qiita.com/Matsuda_465/items/2580cd281ae1a400ce9a",
+          "title": "IBM i の権限設計を“ムダなく、迷わず”進めるための実践ガイド",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "68948fe050b555078be3f8aaa599721b",
+      "title": "【Kotlin】Kotlin Symbol Processing (KSP) 完全入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "9762069684d40025a7a6",
+          "url": "https://qiita.com/nozomi2025/items/9762069684d40025a7a6",
+          "title": "【Kotlin】Kotlin Symbol Processing (KSP) 完全入門：`kapt` からの進化",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "84c5449c801e15f8908db96790f80682",
+      "title": "【SwiftUI】 × Core Data入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "9654232fd21cbfe7ae59",
+          "url": "https://qiita.com/kenshin_jp_13/items/9654232fd21cbfe7ae59",
+          "title": "【SwiftUI】 × Core Data入門：UserDefaultsからステップアップして超簡易的なメモアプリを作ってみた",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "9bda4bf33a2a6265a22c45cb62d689df",
+      "title": "GitLabで実現する実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "80f1b371d9bc3a8c069a",
+          "url": "https://qiita.com/Trenserian/items/80f1b371d9bc3a8c069a",
+          "title": "GitLabで実現する実践CI/CDパイプライン構築ガイド",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "e140392050e1fba097d606b5da95aabd",
+      "title": "僕が実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "5a780dedafd3f855724e",
+          "url": "https://qiita.com/tatsuoNakano/items/5a780dedafd3f855724e",
+          "title": "僕が実践している開発前ルーティーンをシェアしたいと思う。",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "12cd50b014835138feb1607168e76d48",
+      "title": "【Kotlin】Kotlin Annotation Processing 入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "4da1c3cbbf0c20d0436e",
+          "url": "https://qiita.com/nozomi2025/items/4da1c3cbbf0c20d0436e",
+          "title": "【Kotlin】Kotlin Annotation Processing 入門：`kapt` を完全理解する（Room / Hilt / Glide 対応）",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "8905edcb407a3d7fe59eedf6c58055bf",
+      "title": "数字基礎問題精講1Aで学ぶ機械学習入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "qiitaId": "ad0b595e320cb013eadd",
+          "url": "https://qiita.com/abcdefg123/items/ad0b595e320cb013eadd",
+          "title": "数字基礎問題精講1Aで学ぶ機械学習入門",
+          "likes": 0,
+          "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "5d9e1f2ff600e28c0d497869a7b30966",
+      "title": "オブジェクト指向入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "3cbedd4b350bdd235f4a",
+          "url": "https://qiita.com/Saito-3815/items/3cbedd4b350bdd235f4a",
+          "title": "オブジェクト指向入門！データベースとドメインオブジェクトの適切な関係とは！？",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "cb8e1a90957d9b63151c306459c538bc",
+      "title": "FastAPIを基本からまとめてみた【入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "f93cc124ae723367af8d",
+          "url": "https://qiita.com/kanfutrooper/items/f93cc124ae723367af8d",
+          "title": "FastAPIを基本からまとめてみた【入門】",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "338460139e3de371d2327a3717e4e061",
+      "title": "MySQLで学ぶGIS入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "a660233d6a8e75b50cd4",
+          "url": "https://qiita.com/yasoku/items/a660233d6a8e75b50cd4",
+          "title": "MySQLで学ぶGIS入門を学んでみたよ（おまけにMySQLのインストールも）",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "b48578041bc2033b82d7d8b9c940d7bb",
+      "title": "HTMLフォーム完全ガイド：基礎から実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "3bd375084e2c8fa871f3",
+          "url": "https://qiita.com/ktdatascience/items/3bd375084e2c8fa871f3",
+          "title": "HTMLフォーム完全ガイド：基礎から実践まで",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "3607b01a8c67e6400d8427a0ce48d9e9",
+      "title": "Simulated Annealing入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "aa197c709b612fbf67ba",
+          "url": "https://qiita.com/sakaimaging/items/aa197c709b612fbf67ba",
+          "title": "Simulated Annealing入門：温度とエネルギー差で理解する探索アルゴリズム",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "5964d9927cdfeac255cbb94669dc0be6",
+      "title": "い！ヘッダーがバラバラな複数Excelを、賢く名寄せして自動で一つにまとめよう！ | Python活用での業務効率化 -実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "2c93a893fd12c50a96cb",
+          "url": "https://qiita.com/tosuru/items/2c93a893fd12c50a96cb",
+          "title": "【非エンジニア向け】AIプログラマーにお願い！ヘッダーがバラバラな複数Excelを、賢く名寄せして自動で一つにまとめよう！ | Python活用での業務効率化 -実践編-",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "98961d0aa4d6214b07a92f20f2868887",
+      "title": "🦙 LLaMA Factory 入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "b6227587a072ae577d5f",
+          "url": "https://qiita.com/softbase/items/b6227587a072ae577d5f",
+          "title": "🦙 LLaMA Factory 入門：よく使う重要項目をやさしく解説",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "6bf374e77e2e22a0a1889724a686bded",
+      "title": "【C++】再帰もフォールドも怖くない！可変長引数テンプレート超入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "bac197ded3ac71b7d847",
+          "url": "https://qiita.com/tsukino_/items/bac197ded3ac71b7d847",
+          "title": "【C++】再帰もフォールドも怖くない！可変長引数テンプレート超入門",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "f3c07dbe03decf4869c4af30a4835180",
+      "title": "ReactNative+Expo 入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "585ba147e76c434be919",
+          "url": "https://qiita.com/inacyc_k/items/585ba147e76c434be919",
+          "title": "ReactNative+Expo 入門＋ハンズオン",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "974a35632fdb89377f1609505082bbd0",
+      "title": "🔰【初心者向け】バッチファイル入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "ffb9df5b4111f572e588",
+          "url": "https://qiita.com/CodeLeaf/items/ffb9df5b4111f572e588",
+          "title": "🔰【初心者向け】バッチファイル入門！Windows自動化の基礎から実践まで徹底解説💻",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "7df9df3f9d8c2bc26cfea3551c66a74b",
+      "title": "【SQL入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "4c29eebdd23704ff651c",
+          "url": "https://qiita.com/mona02/items/4c29eebdd23704ff651c",
+          "title": "【SQL入門】PARTITION BYとは？GROUP BYとの違いから実例まで解説",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "b4499b375ab322bd03e57bf94414db46",
+      "title": "#0253（2025/10/10）HARファイル入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "6911877661c9f84d3510",
+          "url": "https://qiita.com/kodack/items/6911877661c9f84d3510",
+          "title": "#0253（2025/10/10）HARファイル入門",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "b38c5b590986f7ff85f5e648d77a87a1",
+      "title": "【再発ゼロ設計】田園都市線“10年放置の設定ミス”から学ぶ：IT開発のエラー検知と運用改善の実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "bca8d838ab920c0e9ecb",
+          "url": "https://qiita.com/comty/items/bca8d838ab920c0e9ecb",
+          "title": "【再発ゼロ設計】田園都市線“10年放置の設定ミス”から学ぶ：IT開発のエラー検知と運用改善の実践",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "c8c9cedaf9b9bd79412d37e2cf8dc347",
+      "title": "アルゴリズム入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "fe754acd2905dffa3acb",
+          "url": "https://qiita.com/juna1013/items/fe754acd2905dffa3acb",
+          "title": "アルゴリズム入門(1) - 基本ソート編",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "78dd1f235d376a6f8e8f5cbcc28c6379",
+      "title": "集合と位相 入門の入門",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "ff3e9d70033fdb41ec9c",
+          "url": "https://qiita.com/fumi_fum_fum/items/ff3e9d70033fdb41ec9c",
+          "title": "すうがくぶんか講義「集合と位相 入門の入門」　補集合、和集合、共通部分、差集合",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    }
+  ]
+}
