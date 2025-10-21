@@ -1,8 +1,10 @@
 ﻿name: Daily Ranking (Tech Books)
+
 on:
   schedule:
-    - cron: "10 19 * * *"  # JST 04:10
+    - cron: "10 19 * * *"   # JST 04:10
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,17 +12,24 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
           cache: "npm"
+
       - name: Install deps
         run: npm ci || npm i
+
+      - name: Build collector (ts -> js)
+        run: npx tsc -p tsconfig.collect.json
+
       - name: Collect (tech books)
         env:
           QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
           QIITA_PAGES: 3
-        run: npm run collect:tech
+        run: node dist/scripts/collect-tech.js
+
       - name: Commit if changed
         run: |
           if [ -n "$(git status --porcelain app/data/ranking.json)" ]; then

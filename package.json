@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "collect:tech": "ts-node --esm --transpile-only scripts/collect-tech.ts"
+    "collect:tech": "npm run collect:build && node dist/scripts/collect-tech.js",
+    "collect:build": "tsc -p tsconfig.collect.json"
   },
   "dependencies": {
     "next": "15.5.6",
