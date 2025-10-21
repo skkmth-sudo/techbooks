@@ -1,0 +1,33 @@
+﻿name: Daily Ranking (Tech Books)
+on:
+  schedule:
+    - cron: "10 19 * * *"  # JST 04:10
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci || npm i
+      - name: Collect (tech books)
+        env:
+          QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}  # 任意
+          QIITA_PAGES: 3
+        run: npx ts-node --transpile-only scripts/collect-tech.ts
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain app/data/ranking.json)" ]; then
+            git config user.name "actions-bot"
+            git config user.email "actions-bot@example.com"
+            git add app/data/ranking.json
+            git commit -m "chore(data): update ranking.json [skip ci]"
+            git push
+          else
+            echo "No changes."
+          fi
