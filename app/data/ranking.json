@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-22T03:13:54.665Z",
+  "generatedAt": "2025-10-22T19:21:47.499Z",
   "source": [
     "qiita",
     "hatena"
@@ -10,8 +10,8 @@
       "id": "e6f2b93319a1b7c37571ed3e9fa3d758",
       "title": "アサヒビール停止で痛感：ランサムウェアは「工場」ではなく「業務フロー」を止める",
       "isbn": "2025",
-      "mentions": 12,
-      "score": 36,
+      "mentions": 8,
+      "score": 24,
       "totalLikes": 0,
       "totalStocks": 0,
       "sources": [
@@ -28,20 +28,14 @@
           "stocks": 0
         },
         {
-          "url": "https://qiita.com/satokan3/items/1a8d5cb33b35c6acc59e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "帰ってきた IETF 124 Side Meeting 差分アップデート（2025年10月19日版）",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
           "url": "https://qiita.com/tks_1128/items/259de8f5789e380b1d19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "title": "AWS初心者がJAWS FESTAに参加した話",
           "likes": 0,
           "stocks": 0
         },
         {
-          "url": "https://qiita.com/1610four-season/items/5ad6fc2e7d61f7ef3ee8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "Pythonで官公需情報ポータルサイト 検索 APIを活用して公共工事の入札情報をslackに自動通知＋最新のデータのcsvを取得",
+          "url": "https://qiita.com/ht_deko/items/e8062546c376e5afae76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "RAD Studio / Delphi / C++Builder 13 Florence スタートアップ FAQ",
           "likes": 0,
           "stocks": 0
         },
@@ -52,163 +46,88 @@
           "stocks": 0
         },
         {
-          "url": "https://qiita.com/hayao_k/items/aaaf92e15a60bebd137a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "Amazon Bedrock のモデルアクセス廃止に関しておさえておくとよいこと",
+          "url": "https://qiita.com/1610four-season/items/5ad6fc2e7d61f7ef3ee8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Pythonで官公需情報ポータルサイト 検索 APIを活用して公共工事の入札情報をslackに自動通知＋最新のデータのcsvを取得",
           "likes": 0,
           "stocks": 0
         },
         {
-          "url": "https://nextjs.org/blog/next-16",
-          "title": "Next.js 16",
+          "url": "https://gigazine.net/news/20251022-aws-problem-knock-out-half-web-costing-billions/",
+          "title": "AWSの大規模障害でウェブの半分がダウンし数十兆円規模の経済的損失が出たとの指摘、優秀なエンジニアがAWSを離れている証拠であるという指摘も",
           "likes": 0,
           "stocks": 0
         },
         {
-          "url": "https://techblog.zozo.com/entry/srecon2025-report",
-          "title": "SREcon25 Europe/Middle East/Africa 参加レポート - ZOZO TECH BLOG",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.nichepcgamer.com/archives/fixed-windows11-25h2-24h2-server2025-winre-usb-mouse-keybord-issue.html",
-          "title": "Windows回復環境でUSB機器が動作しない不具合を修正。MS、KB5070773を緊急リリース。アップデート後、USBマウスやUSBキーボードが動作するように。Windows11 25H2 / 24H2 / Windows Server 2025にて | ニッチなPCゲーマーの環境構築Z",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://applech2.com/archives/20251022-chatgpt-atlas-by-openai-now-available.html",
-          "title": "OpenAI、AIによるWebページの要約や分析に加えユーザーに代わり複雑なブラウザ操作を行えるエージェントモードを搭載したWebブラウザ「ChatGPT Atlas」のmacOS版をリリース。",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2510/21/news040.html",
-          "title": "失われゆく「COBOL」技術、レガシーコードとの向き合い方をGitHubが解説",
+          "url": "https://www.ipa.go.jp/digital/chousa/dx-trend/dx-trend-2025.html",
+          "title": "「DX動向2025」日米独比較で探る成果創出の方向性「内向き・部分最適」から「外向き・全体最適」へ | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構",
           "likes": 0,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "c46fcf8cac1d4c31d5598462672baf11",
-      "title": "日刊IETF (2025-10-20) 第1部",
-      "isbn": "20251020",
-      "mentions": 2,
-      "score": 6,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://qiita.com/tetsuko_room/items/9c33402203a38a7d4a2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "日刊IETF (2025-10-20) 第1部",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://qiita.com/tetsuko_room/items/2a5d5225285b8cd22afd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "日刊IETF (2025-10-20) 第2部",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "4ba51904ef56681ad9212e2810124acf",
-      "title": "【LLMOps】Vertex AI Gemini(ADC)を、LangfuseのPlaygroundで実行",
-      "isbn": "2525",
+      "id": "e76536582771542253894c00ab664ffd",
+      "title": "予約したホテルに着いて名前を伝えたら、予約されてないと言われた…→スマホを見せて確認してもらったところ、思わぬ事実が判明「意外とよくあるやつ」「すぐ予約確認しに行った」",
+      "isbn": "20251021",
       "mentions": 1,
       "score": 3,
       "totalLikes": 0,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://qiita.com/kkkdev/items/8e5cdf602e1fa1e21ef0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "【LLMOps】Vertex AI Gemini(ADC)を、LangfuseのPlaygroundで実行",
+          "url": "https://togetter.com/li/2618998",
+          "title": "予約したホテルに着いて名前を伝えたら、予約されてないと言われた…→スマホを見せて確認してもらったところ、思わぬ事実が判明「意外とよくあるやつ」「すぐ予約確認しに行った」",
           "likes": 0,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "1527a3857871e4068f8f5cc2b81f6a86",
-      "title": "251021登壇資料_Biz_Dify_Meetup_ノンエンジニアでもここまでできるDify実践_展開版_.pdf",
-      "isbn": "251021",
+      "id": "025f124f3d11096da99851808f0365a1",
+      "title": "オンラインの本人確認が厳格化、券面撮影など原則廃止へ　iPhoneでの確認は時期尚早",
+      "isbn": "2026",
       "mentions": 1,
       "score": 3,
       "totalLikes": 0,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://speakerdeck.com/shim_surprise/251021deng-tan-zi-liao-biz-dify-meetup-nonensiniatemokokomatetekirudifyshi-jian-zhan-kai-ban",
-          "title": "251021登壇資料_Biz_Dify_Meetup_ノンエンジニアでもここまでできるDify実践_展開版_.pdf",
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11188/",
+          "title": "オンラインの本人確認が厳格化、券面撮影など原則廃止へ　iPhoneでの確認は時期尚早",
           "likes": 0,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "654629d5bf41a9d7b49ddb40da648296",
-      "title": "「DeepSeek-OCR」を試す",
-      "isbn": "6790",
+      "id": "0418d2a262acd6f5cd22fe2d0673b0ca",
+      "title": "“語ることで食べていく”時代の終わり──プロブロガーとスピリチュアル教祖の転落",
+      "isbn": "5500",
       "mentions": 1,
       "score": 3,
       "totalLikes": 0,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://zenn.dev/kun432/scraps/b86cbb66cea4e7",
-          "title": "「DeepSeek-OCR」を試す",
+          "url": "https://blog.tinect.jp/?p=90381",
+          "title": "“語ることで食べていく”時代の終わり──プロブロガーとスピリチュアル教祖の転落",
           "likes": 0,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "b29c69a4f1015db5e47a73ab0ea22110",
-      "title": "マクドナルドにある番号札、店舗の大きさによるものの技術を取り入れて進歩していた「最近スムーズなのはこれか」",
-      "isbn": "20191030",
+      "id": "ecc9feb16e798b8a8efccf34c444eb47",
+      "title": "2カ月で髪が太く濃く、抜け毛63％減　新配合ヘアケア製品を臨床試験60人で実証　台湾チームが研究発表",
+      "isbn": "2014",
       "mentions": 1,
       "score": 3,
       "totalLikes": 0,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://togetter.com/li/2618539",
-          "title": "マクドナルドにある番号札、店舗の大きさによるものの技術を取り入れて進歩していた「最近スムーズなのはこれか」",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "cef48d27c1c9751ee095a075c4a79f62",
-      "title": "都営大江戸線延伸、開業40年以内に黒字化試算　設定条件開示せず依然不透明",
-      "isbn": "1600",
-      "mentions": 1,
-      "score": 3,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00503/",
-          "title": "都営大江戸線延伸、開業40年以内に黒字化試算　設定条件開示せず依然不透明",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "388a178822d3ace20cb8da80cac0b38a",
-      "title": "Anker、モバイルバッテリー・スピーカー4製品の自主回収を発表、発火する事象が国内で発生　「Anker PowerCore 10000」「Soundcore 3」「Soundcore Motion X600」「Anker PowerConf S500」の一部が対象",
-      "isbn": "10000",
-      "mentions": 1,
-      "score": 3,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://internet.watch.impress.co.jp/docs/news/2056670.html",
-          "title": "Anker、モバイルバッテリー・スピーカー4製品の自主回収を発表、発火する事象が国内で発生　「Anker PowerCore 10000」「Soundcore 3」「Soundcore Motion X600」「Anker PowerConf S500」の一部が対象",
+          "url": "https://www.itmedia.co.jp/news/articles/2510/22/news030.html",
+          "title": "2カ月で髪が太く濃く、抜け毛63％減　新配合ヘアケア製品を臨床試験60人で実証　台湾チームが研究発表",
           "likes": 0,
           "stocks": 0
         }
