@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-22T03:12:17.872Z",
+  "generatedAt": "2025-10-22T03:13:54.665Z",
   "source": [
     "qiita",
     "hatena"
@@ -175,6 +175,23 @@
         {
           "url": "https://togetter.com/li/2618539",
           "title": "マクドナルドにある番号札、店舗の大きさによるものの技術を取り入れて進歩していた「最近スムーズなのはこれか」",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "cef48d27c1c9751ee095a075c4a79f62",
+      "title": "都営大江戸線延伸、開業40年以内に黒字化試算　設定条件開示せず依然不透明",
+      "isbn": "1600",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00503/",
+          "title": "都営大江戸線延伸、開業40年以内に黒字化試算　設定条件開示せず依然不透明",
           "likes": 0,
           "stocks": 0
         }
