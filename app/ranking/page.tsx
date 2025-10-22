@@ -39,9 +39,7 @@ export default function RankingPage() {
         const j = await r.json();
         const safe = (j.ranking || []).map((b: BookAgg) => ({ ...b, sources: [...(b.sources ?? [])] }));
         if (!cancelled) { setItems(safe); setGeneratedAt(j.generatedAt ?? null); }
-      } catch (e: any) {
-        if (!cancelled) setError(e?.message || "読み込みに失敗しました");
-      } finally {
+      } catch (e: unknown) { const msg = e instanceof Error ? e.message : String(e); if (!cancelled) setError(msg || "読み込みに失敗しました"); } finally {
         if (!cancelled) setLoading(false);
       }
     })();
@@ -120,3 +118,4 @@ export default function RankingPage() {
     </main>
   );
 }
+
