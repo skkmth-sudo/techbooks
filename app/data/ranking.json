@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-21T19:24:59.057Z",
+  "generatedAt": "2025-10-22T01:56:20.004Z",
   "source": [
     "qiita",
     "hatena"
@@ -9,16 +9,16 @@
       "id": "13e138c95f1c7f467f26f1b375615303",
       "title": "10個のなぜ？",
       "mentions": 1,
-      "score": 87,
-      "totalLikes": 85,
-      "totalStocks": 73,
+      "score": 102,
+      "totalLikes": 100,
+      "totalStocks": 85,
       "sources": [
         {
           "qiitaId": "3f21c850ddc02636b34c",
           "url": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c",
           "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
-          "likes": 85,
-          "stocks": 73
+          "likes": 100,
+          "stocks": 85
         }
       ]
     },
@@ -26,8 +26,8 @@
       "id": "8f3ae1fc41417ad68562c46bdc00571f",
       "title": "Rust入門",
       "mentions": 9,
-      "score": 64,
-      "totalLikes": 46,
+      "score": 65,
+      "totalLikes": 47,
       "totalStocks": 21,
       "sources": [
         {
@@ -41,7 +41,7 @@
           "qiitaId": "d49cdee4ce53a4738f2b",
           "url": "https://qiita.com/kazaf91/items/d49cdee4ce53a4738f2b",
           "title": "Rust入門講座⑧参照カウンタ・マルチスレッド・rayonクレート",
-          "likes": 3,
+          "likes": 4,
           "stocks": 1
         },
         {
@@ -96,34 +96,80 @@
       ]
     },
     {
-      "id": "8e7bc52fef704dfa78fcc49193630945",
-      "title": "頭が真っ白に",
+      "id": "4952fb05212b8f98de70d5e9a4aa727f",
+      "title": "モームリ",
+      "mentions": 6,
+      "score": 30,
+      "totalLikes": 18,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://news.yahoo.co.jp/articles/d3e89dc02436cb875466b580fdec32865d5e04b8",
+          "title": "【独自】退職代行「モームリ」を運営する「アルバトロス」に警視庁が家宅捜索 弁護士法違反の疑い 法律事務所など関係先も一斉捜索（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://newsdig.tbs.co.jp/articles/-/2241924",
+          "title": "【速報】退職代行「モームリ」を運営する「アルバトロス」に警視庁が家宅捜索 弁護士法違反の疑い 法律事務所など関係先も一斉捜索 | TBS NEWS DIG",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://news.web.nhk/newsweb/na/na-k10014955411000",
+          "title": "退職代行サービス「モームリ」運営会社を捜索 警視庁 | NHKニュース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/d3e89dc02436cb875466b580fdec32865d5e04b8",
+          "title": "【独自】退職代行「モームリ」を運営する「アルバトロス」に警視庁が家宅捜索 弁護士法違反の疑い 法律事務所など関係先も一斉捜索（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://newsdig.tbs.co.jp/articles/-/2241924",
+          "title": "【速報】退職代行「モームリ」を運営する「アルバトロス」に警視庁が家宅捜索 弁護士法違反の疑い 法律事務所など関係先も一斉捜索 | TBS NEWS DIG",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://news.web.nhk/newsweb/na/na-k10014955411000",
+          "title": "退職代行サービス「モームリ」運営会社を捜索 警視庁 | NHKニュース",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "7dd3426c3ff85d5c36aee31a68d9bbf2",
+      "title": "ChatGPT Atlas",
       "mentions": 4,
       "score": 20,
       "totalLikes": 12,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://news.yahoo.co.jp/articles/900c021e061607f6cb70bc684671c5b00597a8d2",
-          "title": "国民・小林氏「頭が真っ白に」　決選投票、間違って高市氏に（毎日新聞） - Yahoo!ニュース",
+          "url": "https://www.nikkei.com/article/DGXZQOGN0636X0W5A001C2000000/",
+          "title": "OpenAI、ブラウザー「ChatGPT Atlas」発表 　サイト見ながらAIに質問 - 日本経済新聞",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://mainichi.jp/articles/20251021/k00/00m/010/269000c",
-          "title": "国民・小林氏「頭が真っ白に」　決選投票、間違って高市氏に | 毎日新聞",
+          "url": "https://www.itmedia.co.jp/aiplus/articles/2510/22/news060.html",
+          "title": "ChatGPTがWebブラウザに　「ChatGPT Atlas」、米OpenAIが発表",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://news.yahoo.co.jp/articles/900c021e061607f6cb70bc684671c5b00597a8d2",
-          "title": "国民・小林氏「頭が真っ白に」　決選投票、間違って高市氏に（毎日新聞） - Yahoo!ニュース",
+          "url": "https://www.nikkei.com/article/DGXZQOGN0636X0W5A001C2000000/",
+          "title": "OpenAI、ブラウザー「ChatGPT Atlas」発表 　サイト見ながらAIに質問 - 日本経済新聞",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://mainichi.jp/articles/20251021/k00/00m/010/269000c",
-          "title": "国民・小林氏「頭が真っ白に」　決選投票、間違って高市氏に | 毎日新聞",
+          "url": "https://www.itmedia.co.jp/aiplus/articles/2510/22/news060.html",
+          "title": "ChatGPTがWebブラウザに　「ChatGPT Atlas」、米OpenAIが発表",
           "likes": 3,
           "stocks": 0
         }
@@ -133,190 +179,388 @@
       "id": "0d5bb613ce3c925827ffd1283707fe2b",
       "title": "AutoGPT × OODAループ【実践",
       "mentions": 1,
-      "score": 9,
-      "totalLikes": 7,
+      "score": 10,
+      "totalLikes": 8,
       "totalStocks": 2,
       "sources": [
         {
           "qiitaId": "dae05eb6eebafe049bff",
           "url": "https://qiita.com/ota-tsutomu/items/dae05eb6eebafe049bff",
           "title": "AutoGPT × OODAループ【実践＆応用編】思考と行動をエージェント化する仕組みを考えてみる",
-          "likes": 7,
+          "likes": 8,
           "stocks": 2
         }
       ]
     },
     {
-      "id": "0a99c9a66f08f9432bd4f6059fd9dffd",
-      "title": "グエー死んだンゴ",
+      "id": "92365cda80e0dc0e37146f5a1ff3eadd",
+      "title": "多くの人の気持ちを踏みにじる",
       "mentions": 2,
       "score": 10,
       "totalLikes": 6,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://togetter.com/li/2618682",
-          "title": "がんの治療を受けている人の中には輸血を必要としている人も多いと聞いたので献血に協力してきた、「グエー死んだンゴ」ニキの想いは受け継がれるはず… 成仏してクレメンス",
+          "url": "https://anond.hatelabo.jp/20251022080501",
+          "title": "表現の自由戦士だが、国旗を損壊して「多くの人の気持ちを踏みにじる」自由はあるんだよ、ボケ。",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://togetter.com/li/2618682",
-          "title": "がんの治療を受けている人の中には輸血を必要としている人も多いと聞いたので献血に協力してきた、「グエー死んだンゴ」ニキの想いは受け継がれるはず… 成仏してクレメンス",
+          "url": "https://anond.hatelabo.jp/20251022080501",
+          "title": "表現の自由戦士だが、国旗を損壊して「多くの人の気持ちを踏みにじる」自由はあるんだよ、ボケ。",
           "likes": 3,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "c989a6633167951321f2810253733f7c",
-      "title": "不適切な内容がございました",
+      "id": "e87dafdf3b8286205c31a77e00d1310c",
+      "title": "退職代行モームリ",
       "mentions": 2,
       "score": 10,
       "totalLikes": 6,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://news.yahoo.co.jp/articles/25674e4ba268fba9d8933ee9af81fde3c56cf1d7",
-          "title": "BS朝日、”暴言”田原総一朗氏を厳重注意「不適切な内容がございました」（オリコン） - Yahoo!ニュース",
+          "url": "https://www.asahi.com/articles/ASTBP340JTBPUTIL02SM.html",
+          "title": "警視庁が「退職代行モームリ」を捜査　報酬目的に弁護士あっせん容疑：朝日新聞",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://news.yahoo.co.jp/articles/25674e4ba268fba9d8933ee9af81fde3c56cf1d7",
-          "title": "BS朝日、”暴言”田原総一朗氏を厳重注意「不適切な内容がございました」（オリコン） - Yahoo!ニュース",
+          "url": "https://www.asahi.com/articles/ASTBP340JTBPUTIL02SM.html",
+          "title": "警視庁が「退職代行モームリ」を捜査　報酬目的に弁護士あっせん容疑：朝日新聞",
           "likes": 3,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "0436145d5a37db62905fbc0124ea499d",
-      "title": "Claude Code on the web",
+      "id": "3ec7d56158664bb917cbd28fa4d6cb1b",
+      "title": "4分33秒",
       "mentions": 2,
       "score": 10,
       "totalLikes": 6,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://forest.watch.impress.co.jp/docs/news/2056677.html",
-          "title": "Webブラウザーから直接コーディングタスクを依頼できる「Claude Code on the web」、iOSアプリも／リサーチプレビューとしてPro/Maxユーザー限定でベータ版を提供",
+          "url": "https://togetter.com/li/2618803",
+          "title": "レンタルなんもしない人のネタ投稿「4分33秒」がガチ勢による怒られ発生…だがその状況が「4分33秒」的という見方も",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://forest.watch.impress.co.jp/docs/news/2056677.html",
-          "title": "Webブラウザーから直接コーディングタスクを依頼できる「Claude Code on the web」、iOSアプリも／リサーチプレビューとしてPro/Maxユーザー限定でベータ版を提供",
+          "url": "https://togetter.com/li/2618803",
+          "title": "レンタルなんもしない人のネタ投稿「4分33秒」がガチ勢による怒られ発生…だがその状況が「4分33秒」的という見方も",
           "likes": 3,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "b5a954e647df387ee8348b039389e322",
-      "title": "葬送のフリーレン",
+      "id": "13efc892c822869270c62bfa757cca2a",
+      "title": "ゴールドラッシュ",
       "mentions": 2,
       "score": 10,
       "totalLikes": 6,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://togetter.com/li/2618652",
-          "title": "椎名高志先生による、『葬送のフリーレン』は「紙の漫画雑誌文化の終焉と、それを背負った新たな電子漫画の時代への旅」のメタファーなのかも説",
+          "url": "https://www.nikkei.com/article/DGXZQOGN21D0V0R21C25A0000000/",
+          "title": "NY金先物250ドル安、過去最大の下げ　巻き戻す「ゴールドラッシュ」 - 日本経済新聞",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://togetter.com/li/2618652",
-          "title": "椎名高志先生による、『葬送のフリーレン』は「紙の漫画雑誌文化の終焉と、それを背負った新たな電子漫画の時代への旅」のメタファーなのかも説",
+          "url": "https://www.nikkei.com/article/DGXZQOGN21D0V0R21C25A0000000/",
+          "title": "NY金先物250ドル安、過去最大の下げ　巻き戻す「ゴールドラッシュ」 - 日本経済新聞",
           "likes": 3,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "d88c8f6899f2507273e4ac4dc196f85c",
-      "title": "スープのガワを被ったエナドリ",
+      "id": "e309efccc875577f45b0a0e2a89e6537",
+      "title": "カステラに日本酒を染みこませてはいけません、止まらなくなります",
       "mentions": 2,
       "score": 10,
       "totalLikes": 6,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://togetter.com/li/2618640",
-          "title": "マリア・テレジアが毎日7～8杯飲んだというハプスブルク家の特製スープ、手間のかけ方が尋常じゃなくて「スープのガワを被ったエナドリ」みたいな超濃厚な味らしく興味をそそる",
+          "url": "https://togetter.com/li/2618706",
+          "title": "オンライン酒屋さんの「カステラに日本酒を染みこませてはいけません、止まらなくなります」に様々なオススメが集まる",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://togetter.com/li/2618640",
-          "title": "マリア・テレジアが毎日7～8杯飲んだというハプスブルク家の特製スープ、手間のかけ方が尋常じゃなくて「スープのガワを被ったエナドリ」みたいな超濃厚な味らしく興味をそそる",
+          "url": "https://togetter.com/li/2618706",
+          "title": "オンライン酒屋さんの「カステラに日本酒を染みこませてはいけません、止まらなくなります」に様々なオススメが集まる",
           "likes": 3,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "0f0748547ee352f3a4da98f85f052d81",
-      "title": "Anker PowerCore 10000",
+      "id": "a098de482b9356881b7964f91f291481",
+      "title": "最後のとりで陥落",
       "mentions": 2,
       "score": 10,
       "totalLikes": 6,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://internet.watch.impress.co.jp/docs/news/2056670.html",
-          "title": "Anker、モバイルバッテリー・スピーカー4製品の自主回収を発表、発火する事象が国内で発生　「Anker PowerCore 10000」「Soundcore 3」「Soundcore Motion X600」「Anker PowerConf S500」の一部が対象",
+          "url": "https://www.asahi.com/articles/ASTBP73XZTBPUHBI031M.html",
+          "title": "アイスランドで3匹の蚊を発見　「最後のとりで陥落」　温暖化影響か：朝日新聞",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://internet.watch.impress.co.jp/docs/news/2056670.html",
-          "title": "Anker、モバイルバッテリー・スピーカー4製品の自主回収を発表、発火する事象が国内で発生　「Anker PowerCore 10000」「Soundcore 3」「Soundcore Motion X600」「Anker PowerConf S500」の一部が対象",
+          "url": "https://www.asahi.com/articles/ASTBP73XZTBPUHBI031M.html",
+          "title": "アイスランドで3匹の蚊を発見　「最後のとりで陥落」　温暖化影響か：朝日新聞",
           "likes": 3,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "456c2d650635c9b7ee7214e58e0cad4b",
-      "title": "護身用でも携帯するのは軽犯罪法違反",
+      "id": "38e05c6dd0f0e04d220ae1d079b41979",
+      "title": "スタバのカップに謎の日本語を書かれたんだけど何て意味なの？",
       "mentions": 2,
       "score": 10,
       "totalLikes": 6,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://togetter.com/li/2618615",
-          "title": "山手線の電車内で催涙スプレーが撒かれるトラブルが発生「護身用でも携帯するのは軽犯罪法違反」",
+          "url": "http://www.all-nationz.com/archives/1083765721.html",
+          "title": "外国人「スタバのカップに謎の日本語を書かれたんだけど何て意味なの？」 : 海外の万国反応記＠海外の反応",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://togetter.com/li/2618615",
-          "title": "山手線の電車内で催涙スプレーが撒かれるトラブルが発生「護身用でも携帯するのは軽犯罪法違反」",
+          "url": "http://www.all-nationz.com/archives/1083765721.html",
+          "title": "外国人「スタバのカップに謎の日本語を書かれたんだけど何て意味なの？」 : 海外の万国反応記＠海外の反応",
           "likes": 3,
           "stocks": 0
         }
       ]
     },
     {
-      "id": "764738f636440de47207f83c983d5f1c",
-      "title": "トレパク",
+      "id": "c40022c1d2d1868d9f8c9548cd8e4c3e",
+      "title": "クルスタ",
       "mentions": 2,
       "score": 10,
       "totalLikes": 6,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://www.ben54.jp/news/2797",
-          "title": "江口寿史氏のイラスト、著作権的には“セーフ”の可能性も？　「トレパク」をめぐる“権利侵害”の判断ポイント | 弁護士JPニュース",
+          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news120.html",
+          "title": "App Store審査落ち、再び──スマホアプリ「クルスタ」が声明　「審査通ったバージョンからデータ更新していない」",
           "likes": 3,
           "stocks": 0
         },
         {
-          "url": "https://www.ben54.jp/news/2797",
-          "title": "江口寿史氏のイラスト、著作権的には“セーフ”の可能性も？　「トレパク」をめぐる“権利侵害”の判断ポイント | 弁護士JPニュース",
+          "url": "https://www.itmedia.co.jp/news/articles/2510/21/news120.html",
+          "title": "App Store審査落ち、再び──スマホアプリ「クルスタ」が声明　「審査通ったバージョンからデータ更新していない」",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "2856bb9296eea6cb0dc7f1918fa5e901",
+      "title": "女の時代",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://digital.asahi.com/sp/articles/ASTBN0PNDTBNUTFL00NM.html?ptoken=01K82ZCPDV599F9XF3EBXZZACX",
+          "title": "「女の時代」の矛盾を体現する高市氏　保守がガラスの天井破った理由：朝日新聞",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://digital.asahi.com/sp/articles/ASTBN0PNDTBNUTFL00NM.html?ptoken=01K82ZCPDV599F9XF3EBXZZACX",
+          "title": "「女の時代」の矛盾を体現する高市氏　保守がガラスの天井破った理由：朝日新聞",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "73ac5ae91c75eda82179b40e5273020a",
+      "title": "安保男",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618747",
+          "title": "高市内閣、防衛相に前農水相・小泉進次郎氏の横滑り起用が判明したことに「考えられた人事なんだな」という声「かの名高き『安保男』の孫だ」",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618747",
+          "title": "高市内閣、防衛相に前農水相・小泉進次郎氏の横滑り起用が判明したことに「考えられた人事なんだな」という声「かの名高き『安保男』の孫だ」",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "2cc11891df9a272cbd64bca7aa399345",
+      "title": "Amazon EBS Volume Clones",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.publickey1.jp/blog/25/awsamazon_ebsamazon_ebs_volume_clones.html",
+          "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.publickey1.jp/blog/25/awsamazon_ebsamazon_ebs_volume_clones.html",
+          "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "3a2931917044cb78fbb6447317979daa",
+      "title": "なみえ焼そば",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.yomiuri.co.jp/national/20251011-OYT1T50063/",
+          "title": "タダで名乗れない「なみえ焼そば」…売り上げ２・５％徴収、町商工会「ＰＲ資金に」",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.yomiuri.co.jp/national/20251011-OYT1T50063/",
+          "title": "タダで名乗れない「なみえ焼そば」…売り上げ２・５％徴収、町商工会「ＰＲ資金に」",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "9896b2a13480294573f22d5efcaa8be3",
+      "title": "これから大変だろうな",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.sankei.com/article/20251021-6KKV5EVKFNIEPJ3FWBJUG6LLAY/",
+          "title": "「これから大変だろうな」　高市政権に少数与党の現実…際どい票差の首相指名選挙",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.sankei.com/article/20251021-6KKV5EVKFNIEPJ3FWBJUG6LLAY/",
+          "title": "「これから大変だろうな」　高市政権に少数与党の現実…際どい票差の首相指名選挙",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "c0bc80bd1b3bcbcb3f7188f5524976d9",
+      "title": "トルービズの秘薬師",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://automaton-media.com/articles/newsjp/the-apothecary-of-trubiz-20251021-362384/",
+          "title": "言語解読・お薬調合ゲーム『トルービズの秘薬師』Steam版11月7日配信へ。「架空古代語」を解読し、患者のためにお薬調合 - AUTOMATON",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://automaton-media.com/articles/newsjp/the-apothecary-of-trubiz-20251021-362384/",
+          "title": "言語解読・お薬調合ゲーム『トルービズの秘薬師』Steam版11月7日配信へ。「架空古代語」を解読し、患者のためにお薬調合 - AUTOMATON",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "9d24ffbac42b18430e438917dd1ef99a",
+      "title": "発がん性物質",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://jp.reuters.com/markets/commodities/72VM6BS3YNPDZJ53QF4MTLUYOU-2025-10-21/",
+          "title": "ＥＵ、エタノールの「発がん性物質」指定検討　手指消毒に影響＝ＦＴ",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://jp.reuters.com/markets/commodities/72VM6BS3YNPDZJ53QF4MTLUYOU-2025-10-21/",
+          "title": "ＥＵ、エタノールの「発がん性物質」指定検討　手指消毒に影響＝ＦＴ",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "129bb93d92fd3940c3f62fea7b5536c9",
+      "title": "もしかして友達になりたいのかな？",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://togetter.com/li/2618722",
+          "title": "クマは「もしかして友達になりたいのかな？」というほどの温厚さで少しずつ距離を縮めてくることがあるが、そういう優しいクマさんに会った時ほどすぐ下山すべき",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://togetter.com/li/2618722",
+          "title": "クマは「もしかして友達になりたいのかな？」というほどの温厚さで少しずつ距離を縮めてくることがあるが、そういう優しいクマさんに会った時ほどすぐ下山すべき",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "29319ab7c28afd415113b7f04962fae5",
+      "title": "高市氏",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.sankei.com/article/20251021-VL2JWLGA5FK3HCH3DRU7Q2ZLHA/",
+          "title": "国民民主・小林さやか氏、参院決選投票で「高市氏」　「間違えた」と釈明、党が厳重注意",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.sankei.com/article/20251021-VL2JWLGA5FK3HCH3DRU7Q2ZLHA/",
+          "title": "国民民主・小林さやか氏、参院決選投票で「高市氏」　「間違えた」と釈明、党が厳重注意",
           "likes": 3,
           "stocks": 0
         }
@@ -627,6 +871,23 @@
       ]
     },
     {
+      "id": "bfc6fa9a3c47d265ae18cc0b67b9db5c",
+      "title": "Burp Suite入門",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "5e85256d46dc2aa455a8",
+          "url": "https://qiita.com/cho-tehu/items/5e85256d46dc2aa455a8",
+          "title": "Burp Suite入門：リクエスト改ざんで理解するSQLインジェクションの危険性",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
       "id": "c19c91f391c288de4fe254472a49bba5",
       "title": "四日で覚えるC言語【Day 6",
       "mentions": 1,
@@ -666,14 +927,14 @@
       "mentions": 1,
       "score": 3,
       "totalLikes": 1,
-      "totalStocks": 0,
+      "totalStocks": 1,
       "sources": [
         {
           "qiitaId": "d75e9019767430152dd8",
           "url": "https://qiita.com/sori883/items/d75e9019767430152dd8",
           "title": "【今更入門】Amazon Bedrockの概要＆使って学ぶBedrockエージェント",
           "likes": 1,
-          "stocks": 0
+          "stocks": 1
         }
       ]
     },
@@ -708,6 +969,23 @@
           "title": "React Hooks 入門：モダンなコンポーネント設計を始めよう",
           "likes": 1,
           "stocks": 1
+        }
+      ]
+    },
+    {
+      "id": "8c4537f9a73bada751425cb54ff81db6",
+      "title": "vLLM",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "4833ba94d1c9eb959329",
+          "url": "https://qiita.com/Junichiro_Morita/items/4833ba94d1c9eb959329",
+          "title": "松尾研 LLM開発コンペ2025で学んだ「vLLM」入門 ― Transformersとの違いと実践 ―",
+          "likes": 1,
+          "stocks": 0
         }
       ]
     },
@@ -808,6 +1086,23 @@
           "qiitaId": "e29e618ee7d92c39c866",
           "url": "https://qiita.com/Inlet-back/items/e29e618ee7d92c39c866",
           "title": "Pwn入門：Babystack",
+          "likes": 1,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "e26f6648c0b157589682a8b4829183c1",
+      "title": "IBM i の権限設計を“ムダなく、迷わず”進めるための実践",
+      "mentions": 1,
+      "score": 3,
+      "totalLikes": 1,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "2580cd281ae1a400ce9a",
+          "url": "https://qiita.com/Matsuda_465/items/2580cd281ae1a400ce9a",
+          "title": "IBM i の権限設計を“ムダなく、迷わず”進めるための実践ガイド",
           "likes": 1,
           "stocks": 0
         }
@@ -1009,23 +1304,6 @@
       ]
     },
     {
-      "id": "bfc6fa9a3c47d265ae18cc0b67b9db5c",
-      "title": "Burp Suite入門",
-      "mentions": 1,
-      "score": 2,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "qiitaId": "5e85256d46dc2aa455a8",
-          "url": "https://qiita.com/cho-tehu/items/5e85256d46dc2aa455a8",
-          "title": "Burp Suite入門：リクエスト改ざんで理解するSQLインジェクションの危険性",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
       "id": "496d3ca181183681f0bdbe328516546f",
       "title": "ReactのuseContext入門",
       "mentions": 1,
@@ -1088,23 +1366,6 @@
           "qiitaId": "79896a613be3be780ca5",
           "url": "https://qiita.com/naoya475866/items/79896a613be3be780ca5",
           "title": "Java入門基礎",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "8c4537f9a73bada751425cb54ff81db6",
-      "title": "vLLM",
-      "mentions": 1,
-      "score": 2,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "qiitaId": "4833ba94d1c9eb959329",
-          "url": "https://qiita.com/Junichiro_Morita/items/4833ba94d1c9eb959329",
-          "title": "松尾研 LLM開発コンペ2025で学んだ「vLLM」入門 ― Transformersとの違いと実践 ―",
           "likes": 0,
           "stocks": 0
         }
@@ -1326,6 +1587,23 @@
           "qiitaId": "2718397be7c516db8934",
           "url": "https://qiita.com/nozomi2025/items/2718397be7c516db8934",
           "title": "【セキュリティ】Burp Suite入門：Webアプリ脆弱性診断の必須ツール",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "id": "041b8a769bd0c00e854687b77137787b",
+      "title": "GitHub ActionsでQiita記事を自動投稿する完全ガイド【Qiita自動投稿シリーズ #1（実践",
+      "mentions": 1,
+      "score": 2,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "qiitaId": "efab4a78a3f1cb29c3a7",
+          "url": "https://qiita.com/Piyovate/items/efab4a78a3f1cb29c3a7",
+          "title": "GitHub ActionsでQiita記事を自動投稿する完全ガイド【Qiita自動投稿シリーズ #1（実践編）】",
           "likes": 0,
           "stocks": 0
         }
@@ -1615,23 +1893,6 @@
           "qiitaId": "49ac581aaa272dcddb4a",
           "url": "https://qiita.com/lil_suzuchan/items/49ac581aaa272dcddb4a",
           "title": "Javaで学ぶオブジェクト指向プログラミング入門",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "e26f6648c0b157589682a8b4829183c1",
-      "title": "IBM i の権限設計を“ムダなく、迷わず”進めるための実践",
-      "mentions": 1,
-      "score": 2,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "qiitaId": "2580cd281ae1a400ce9a",
-          "url": "https://qiita.com/Matsuda_465/items/2580cd281ae1a400ce9a",
-          "title": "IBM i の権限設計を“ムダなく、迷わず”進めるための実践ガイド",
           "likes": 0,
           "stocks": 0
         }
@@ -1955,23 +2216,6 @@
           "qiitaId": "6911877661c9f84d3510",
           "url": "https://qiita.com/kodack/items/6911877661c9f84d3510",
           "title": "#0253（2025/10/10）HARファイル入門",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "b38c5b590986f7ff85f5e648d77a87a1",
-      "title": "【再発ゼロ設計】田園都市線“10年放置の設定ミス”から学ぶ：IT開発のエラー検知と運用改善の実践",
-      "mentions": 1,
-      "score": 2,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "qiitaId": "bca8d838ab920c0e9ecb",
-          "url": "https://qiita.com/comty/items/bca8d838ab920c0e9ecb",
-          "title": "【再発ゼロ設計】田園都市線“10年放置の設定ミス”から学ぶ：IT開発のエラー検知と運用改善の実践",
           "likes": 0,
           "stocks": 0
         }
