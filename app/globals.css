@@ -1,42 +1,12 @@
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+﻿/* app/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+:root { color-scheme: light; }
 
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
+body { @apply bg-[#f8faf9] text-[#111827]; }
+h1,h2,h3 { @apply tracking-tight; }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-}
+.card { @apply rounded-2xl bg-white shadow-card border border-gray-100; }
+.badge { @apply inline-flex items-center gap-1 text-xs px-2 py-0.5 rounded-full border; }
