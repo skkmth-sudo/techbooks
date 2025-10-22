@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-22T01:56:20.004Z",
+  "generatedAt": "2025-10-22T02:46:29.514Z",
   "source": [
     "qiita",
     "hatena"
@@ -9,16 +9,16 @@
       "id": "13e138c95f1c7f467f26f1b375615303",
       "title": "10個のなぜ？",
       "mentions": 1,
-      "score": 102,
-      "totalLikes": 100,
-      "totalStocks": 85,
+      "score": 107,
+      "totalLikes": 105,
+      "totalStocks": 89,
       "sources": [
         {
           "qiitaId": "3f21c850ddc02636b34c",
           "url": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c",
           "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
-          "likes": 100,
-          "stocks": 85
+          "likes": 105,
+          "stocks": 89
         }
       ]
     },
@@ -142,6 +142,40 @@
       ]
     },
     {
+      "id": "e87dafdf3b8286205c31a77e00d1310c",
+      "title": "退職代行モームリ",
+      "mentions": 4,
+      "score": 20,
+      "totalLikes": 12,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.nikkei.com/article/DGXZQOUD2214B0S5A021C2000000/",
+          "title": "「退職代行モームリ」を警視庁が家宅捜索　弁護士法違反容疑 - 日本経済新聞",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.asahi.com/articles/ASTBP340JTBPUTIL02SM.html",
+          "title": "警視庁が「退職代行モームリ」を捜査　報酬目的に弁護士あっせん容疑：朝日新聞",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.nikkei.com/article/DGXZQOUD2214B0S5A021C2000000/",
+          "title": "「退職代行モームリ」を警視庁が家宅捜索　弁護士法違反容疑 - 日本経済新聞",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.asahi.com/articles/ASTBP340JTBPUTIL02SM.html",
+          "title": "警視庁が「退職代行モームリ」を捜査　報酬目的に弁護士あっせん容疑：朝日新聞",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
       "id": "7dd3426c3ff85d5c36aee31a68d9bbf2",
       "title": "ChatGPT Atlas",
       "mentions": 4,
@@ -193,6 +227,28 @@
       ]
     },
     {
+      "id": "e16f65eaa78d242c66852039f3c8fc69",
+      "title": "251021登壇資料_Biz_Dify_Meetup_ノンエンジニアでもここまでできるDify実践",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://speakerdeck.com/shim_surprise/251021deng-tan-zi-liao-biz-dify-meetup-nonensiniatemokokomatetekirudifyshi-jian-zhan-kai-ban",
+          "title": "251021登壇資料_Biz_Dify_Meetup_ノンエンジニアでもここまでできるDify実践_展開版_.pdf",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://speakerdeck.com/shim_surprise/251021deng-tan-zi-liao-biz-dify-meetup-nonensiniatemokokomatetekirudifyshi-jian-zhan-kai-ban",
+          "title": "251021登壇資料_Biz_Dify_Meetup_ノンエンジニアでもここまでできるDify実践_展開版_.pdf",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
       "id": "92365cda80e0dc0e37146f5a1ff3eadd",
       "title": "多くの人の気持ちを踏みにじる",
       "mentions": 2,
@@ -209,28 +265,6 @@
         {
           "url": "https://anond.hatelabo.jp/20251022080501",
           "title": "表現の自由戦士だが、国旗を損壊して「多くの人の気持ちを踏みにじる」自由はあるんだよ、ボケ。",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "e87dafdf3b8286205c31a77e00d1310c",
-      "title": "退職代行モームリ",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.asahi.com/articles/ASTBP340JTBPUTIL02SM.html",
-          "title": "警視庁が「退職代行モームリ」を捜査　報酬目的に弁護士あっせん容疑：朝日新聞",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.asahi.com/articles/ASTBP340JTBPUTIL02SM.html",
-          "title": "警視庁が「退職代行モームリ」を捜査　報酬目的に弁護士あっせん容疑：朝日新聞",
           "likes": 3,
           "stocks": 0
         }
@@ -369,6 +403,28 @@
       ]
     },
     {
+      "id": "9bc11146a7de3d47f75f06c0fb9fbd8e",
+      "title": "香港97",
+      "mentions": 2,
+      "score": 10,
+      "totalLikes": 6,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://www.gamespark.jp/article/2025/10/22/158622.html",
+          "title": "幻の非公認アングラゲー『香港97』まさかの新作。『香港2097』発表、原作者も共同開発！アメリッッカ合衆国の人口を一掃せよ | Game*Spark - 国内・海外ゲーム情報サイト",
+          "likes": 3,
+          "stocks": 0
+        },
+        {
+          "url": "https://www.gamespark.jp/article/2025/10/22/158622.html",
+          "title": "幻の非公認アングラゲー『香港97』まさかの新作。『香港2097』発表、原作者も共同開発！アメリッッカ合衆国の人口を一掃せよ | Game*Spark - 国内・海外ゲーム情報サイト",
+          "likes": 3,
+          "stocks": 0
+        }
+      ]
+    },
+    {
       "id": "2856bb9296eea6cb0dc7f1918fa5e901",
       "title": "女の時代",
       "mentions": 2,
@@ -495,72 +551,6 @@
         {
           "url": "https://automaton-media.com/articles/newsjp/the-apothecary-of-trubiz-20251021-362384/",
           "title": "言語解読・お薬調合ゲーム『トルービズの秘薬師』Steam版11月7日配信へ。「架空古代語」を解読し、患者のためにお薬調合 - AUTOMATON",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "9d24ffbac42b18430e438917dd1ef99a",
-      "title": "発がん性物質",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://jp.reuters.com/markets/commodities/72VM6BS3YNPDZJ53QF4MTLUYOU-2025-10-21/",
-          "title": "ＥＵ、エタノールの「発がん性物質」指定検討　手指消毒に影響＝ＦＴ",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://jp.reuters.com/markets/commodities/72VM6BS3YNPDZJ53QF4MTLUYOU-2025-10-21/",
-          "title": "ＥＵ、エタノールの「発がん性物質」指定検討　手指消毒に影響＝ＦＴ",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "129bb93d92fd3940c3f62fea7b5536c9",
-      "title": "もしかして友達になりたいのかな？",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://togetter.com/li/2618722",
-          "title": "クマは「もしかして友達になりたいのかな？」というほどの温厚さで少しずつ距離を縮めてくることがあるが、そういう優しいクマさんに会った時ほどすぐ下山すべき",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://togetter.com/li/2618722",
-          "title": "クマは「もしかして友達になりたいのかな？」というほどの温厚さで少しずつ距離を縮めてくることがあるが、そういう優しいクマさんに会った時ほどすぐ下山すべき",
-          "likes": 3,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "29319ab7c28afd415113b7f04962fae5",
-      "title": "高市氏",
-      "mentions": 2,
-      "score": 10,
-      "totalLikes": 6,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.sankei.com/article/20251021-VL2JWLGA5FK3HCH3DRU7Q2ZLHA/",
-          "title": "国民民主・小林さやか氏、参院決選投票で「高市氏」　「間違えた」と釈明、党が厳重注意",
-          "likes": 3,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.sankei.com/article/20251021-VL2JWLGA5FK3HCH3DRU7Q2ZLHA/",
-          "title": "国民民主・小林さやか氏、参院決選投票で「高市氏」　「間違えた」と釈明、党が厳重注意",
           "likes": 3,
           "stocks": 0
         }
