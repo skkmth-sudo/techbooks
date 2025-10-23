@@ -27,13 +27,15 @@ jobs:
         run: |
           echo "== pwd ==" && pwd
           echo "== ls scripts ==" && ls -al scripts || true
-          test -f scripts/collect-tech.ts
+          test -f scripts/collect-tech.fixed.ts
 
       - name: Collect (tech books) via tsx
         env:
+  MIN_LIKES: '5'
+  QIITA_PAGES: '5'
           QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}   # 任意
           QIITA_PAGES: 3
-        run: npx --yes tsx@^4 scripts/collect-tech.ts
+        run: npx --yes tsx@^4 scripts/collect-tech.fixed.ts
 
       - name: Commit if changed
         run: |
@@ -50,5 +52,8 @@ jobs:
       - name: Trigger Vercel deploy (optional)
         if: ${{ env.HOOK != '' }}
         env:
+  MIN_LIKES: '5'
+  QIITA_PAGES: '5'
           HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
         run: curl -X POST "$HOOK" || true
+
