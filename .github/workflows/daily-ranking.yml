@@ -32,7 +32,8 @@ jobs:
       - name: Collect (tech books) via tsx
         env:
   MIN_LIKES: '3'
-  QIITA_PAGES: '10'MIN_LIKES: '5'
+  QIITA_PAGES: '10'
+  MIN_LIKES: '5'
   QIITA_PAGES: '5'
           QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}   # 任意
 
@@ -54,9 +55,11 @@ jobs:
         if: ${{ env.HOOK != '' }}
         env:
   MIN_LIKES: '3'
-  QIITA_PAGES: '10'MIN_LIKES: '5'
+  QIITA_PAGES: '10'
+  MIN_LIKES: '5'
   QIITA_PAGES: '5'
           HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
         run: curl -X POST "$HOOK" || true
+
 
 
