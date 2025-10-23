@@ -28,6 +28,8 @@ const isIsbn10 = (raw: string) => {
 const isIsbn13 = (raw: string) => {
   const v = normIsbn(raw);
   if (v.length !== 13) return false;
+  // ISBN-13 は 978 または 979 で始まる
+  if (!(v.startsWith("978") || v.startsWith("979"))) return false;
   let sum = 0;
   for (let i = 0; i < 12; i++) {
     const n = Number(v[i]); if (Number.isNaN(n)) return false;
@@ -40,11 +42,18 @@ const isIsbn13 = (raw: string) => {
 // タイトルか本文から最初の valid ISBN を抽出
 const extractValidIsbn = (text: string): string | undefined => {
   if (!text) return;
-  const re = /(?:ISBN(?:-1[03])?:?\s*)?([0-9Xx][0-9Xx\- ]{8,16}[0-9Xx])/g;
+  // 1) ISBN表記ありを優先（10/13桁どちらも）
+  const reIsbnTag = /ISBN(?:-1[03])?:?\s*([0-9Xx][0-9Xx\- ]{8,16}[0-9Xx])/g;
   let m: RegExpExecArray | null;
-  while ((m = re.exec(text)) !== null) {
+  while ((m = reIsbnTag.exec(text)) !== null) {
     const cand = normIsbn(m[1]);
     if (isIsbn13(cand) || isIsbn10(cand)) return cand;
+  }
+  // 2) ISBN表記なしでも 978/979 始まりの13桁だけを許可（EAN誤爆を防止）
+  const re978 = /(97[89][0-9\- ]{10,16})/g;
+  while ((m = re978.exec(text)) !== null) {
+    const cand = normIsbn(m[1]);
+    if (isIsbn13(cand)) return cand;
   }
   return;
 };
@@ -171,3 +180,4 @@ async function hydrateBodies(items: QiitaItem[]): Promise<Map<string, string>> {
   console.error(e);
   process.exit(1);
 });
+
