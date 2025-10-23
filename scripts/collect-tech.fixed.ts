@@ -10,6 +10,18 @@ import path from "path";
 // ---------- helpers: ISBN ----------
 const normIsbn = (s: string) => s.replace(/[^\dXx]/g, "").toUpperCase();
 
+// 近傍に「書籍らしさ」があるか（出版社/版/入門/書/本 など）
+// 周辺±80文字に以下の語が1つでもあれば true
+function hasBookContext(text: string, start: number, end: number): boolean {
+  const ctx = text.slice(Math.max(0, start - 80), Math.min(text.length, end + 80)).toLowerCase();
+  const hints = [
+    "isbn", "書", "本", "入門", "大全", "実践", "第", "版", "改訂", "改訂版",
+    "oreilly", "o'reilly", "オライリー",
+    "技術評論社", "翔泳社", "インプレス", "マイナビ", "sbクリエイティブ", "ソフトバンククリエイティブ",
+    "日経bp", "秀和システム", "朝日新聞出版", "講談社", "kindaipubl", "gijutsu hyouron"
+  ];
+  return hints.some(h => ctx.includes(h));
+}
 const isIsbn10 = (raw: string) => {
   const v = normIsbn(raw);
   if (v.length !== 10) return false;
@@ -28,7 +40,6 @@ const isIsbn10 = (raw: string) => {
 const isIsbn13 = (raw: string) => {
   const v = normIsbn(raw);
   if (v.length !== 13) return false;
-  // ISBN-13 は 978 または 979 で始まる
   if (!(v.startsWith("978") || v.startsWith("979"))) return false;
   let sum = 0;
   for (let i = 0; i < 12; i++) {
@@ -42,18 +53,21 @@ const isIsbn13 = (raw: string) => {
 // タイトルか本文から最初の valid ISBN を抽出
 const extractValidIsbn = (text: string): string | undefined => {
   if (!text) return;
-  // 1) ISBN表記ありを優先（10/13桁どちらも）
-  const reIsbnTag = /ISBN(?:-1[03])?:?\s*([0-9Xx][0-9Xx\- ]{8,16}[0-9Xx])/g;
+  // 1) "ISBN" タグ付き候補を優先
+  const reTag = /ISBN(?:-1[03])?:?\s*([0-9Xx][0-9Xx\- ]{8,16}[0-9Xx])/g;
   let m: RegExpExecArray | null;
-  while ((m = reIsbnTag.exec(text)) !== null) {
-    const cand = normIsbn(m[1]);
-    if (isIsbn13(cand) || isIsbn10(cand)) return cand;
+  while ((m = reTag.exec(text)) !== null) {
+    const raw = m[1];
+    const cand = normIsbn(raw);
+    const ok = isIsbn13(cand) || isIsbn10(cand);
+    if (ok && hasBookContext(text, m.index, m.index + raw.length)) return cand;
   }
-  // 2) ISBN表記なしでも 978/979 始まりの13桁だけを許可（EAN誤爆を防止）
-  const re978 = /(97[89][0-9\- ]{10,16})/g;
-  while ((m = re978.exec(text)) !== null) {
-    const cand = normIsbn(m[1]);
-    if (isIsbn13(cand)) return cand;
+  // 2) タグなしは 978/979 始まり候補のみを審査
+  const re97 = /(97[89][0-9\- ]{10,16})/g;
+  while ((m = re97.exec(text)) !== null) {
+    const raw = m[1];
+    const cand = normIsbn(raw);
+    if (isIsbn13(cand) && hasBookContext(text, m.index, m.index + raw.length)) return cand;
   }
   return;
 };
@@ -180,4 +194,5 @@ async function hydrateBodies(items: QiitaItem[]): Promise<Map<string, string>> {
   console.error(e);
   process.exit(1);
 });
+
 
