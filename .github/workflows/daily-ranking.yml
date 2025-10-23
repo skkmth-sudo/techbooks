@@ -2,20 +2,27 @@
 
 on:
   schedule:
-    # GitHub Actions は UTC。JST 04:10 = 前日 19:10 UTC
+    # JST 04:10 = UTC 19:10
     - cron: "10 19 * * *"
   workflow_dispatch:
+
+env:
+  # 調整用
+  MIN_LIKES: "3"
+  QIITA_PAGES: "10"
+  # 任意（設定していなければ空のままでOK）
+  QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
+  VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
           cache: "npm"
@@ -23,43 +30,21 @@ jobs:
       - name: Install deps
         run: npm ci || npm i
 
-      - name: Check source exists (debug)
-        run: |
-          echo "== pwd ==" && pwd
-          echo "== ls scripts ==" && ls -al scripts || true
-          test -f scripts/collect-tech.fixed.ts
-
-      - name: Collect (tech books) via tsx
+      - name: Collect tech books
         env:
-  MIN_LIKES: '3'
-  QIITA_PAGES: '10'
-  MIN_LIKES: '5'
-  QIITA_PAGES: '5'
-          QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}   # 任意
-
+          MIN_LIKES: ${{ env.MIN_LIKES }}
+          QIITA_PAGES: ${{ env.QIITA_PAGES }}
+          QIITA_TOKEN: ${{ env.QIITA_TOKEN }}
         run: npx --yes tsx@^4 scripts/collect-tech.fixed.ts
 
-      - name: Commit if changed
+      - name: Commit ranking.json (if changed)
         run: |
-          if [ -n "$(git status --porcelain app/data/ranking.json)" ]; then
-            git config user.name "actions-bot"
-            git config user.email "actions-bot@example.com"
-            git add app/data/ranking.json
-            git commit -m "chore(data): update ranking.json [skip ci]"
-            git push
-          else
-            echo "No changes."
-          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add app/data/ranking.json
+          git commit -m "chore(data): update ranking.json [skip ci]" || echo "No changes to commit"
+          git push || true
 
-      - name: Trigger Vercel deploy (optional)
-        if: ${{ env.HOOK != '' }}
-        env:
-  MIN_LIKES: '3'
-  QIITA_PAGES: '10'
-  MIN_LIKES: '5'
-  QIITA_PAGES: '5'
-          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
-        run: curl -X POST "$HOOK" || true
-
-
-
+      - name: Trigger Vercel deploy (if hook set)
+        if: ${{ env.VERCEL_DEPLOY_HOOK_URL != '' }}
+        run: curl -sS -X POST "$VERCEL_DEPLOY_HOOK_URL" || true
