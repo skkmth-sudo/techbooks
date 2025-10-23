@@ -1,10 +1,146 @@
 {
-  "generatedAt": "2025-10-23T05:09:45.658Z",
+  "generatedAt": "2025-10-23T06:19:22.640Z",
   "source": [
     "qiita"
   ],
-  "strict": true,
-  "minLikes": 5,
-  "pages": 5,
-  "ranking": []
+  "strict": false,
+  "minLikes": 0,
+  "pages": 10,
+  "ranking": [
+    {
+      "isbn": "9784043898039",
+      "title": "国立国会図書館の検索用APIを利用してISBNから書籍情報を取得する(OpenSearch)",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/yknm1989/items/f77d22e1c7f1347d79b0",
+          "title": "国立国会図書館の検索用APIを利用してISBNから書籍情報を取得する(OpenSearch)",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "isbn": "9784873115894",
+      "title": "「SQLアンチパターン 第2版」まとめ",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/matsumura-yzrh/items/5ad34282a7c0bf443895",
+          "title": "「SQLアンチパターン 第2版」まとめ",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "isbn": "9784798072791",
+      "title": "【書籍紹介】システム設計面接の傾向と対策",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/litswd0211/items/aa21c63f3ffee60593f2",
+          "title": "【書籍紹介】システム設計面接の傾向と対策",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "isbn": "9784774142043",
+      "title": "【書評】Webを支える技術",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/garudakai/items/665bf6d59b49f0dae26e",
+          "title": "【書評】Webを支える技術",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "isbn": "9784798181578",
+      "title": "書籍紹介：手を動かして学ぶハッキングの入門書『7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性』",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/sekappy_official/items/082bc003a2c9d2a4c835",
+          "title": "書籍紹介：手を動かして学ぶハッキングの入門書『7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性』",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "isbn": "9784274223211",
+      "title": "自分用読書メモ「自動車工学入門」",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/ishikawahijiri/items/11deb29cb9ff188dd52a",
+          "title": "自分用読書メモ「自動車工学入門」",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "isbn": "9784478108925",
+      "title": "非エンジニアのプログラミング学習記録　2025年10月16日（木）読書から始める…",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/hiroki_fukuoka/items/fcd5b3feb1a6467127bf",
+          "title": "非エンジニアのプログラミング学習記録　2025年10月16日（木）読書から始める…",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "isbn": "9784798168500",
+      "title": "【PHP／MySQL】データベースを組み込んだホームページを全世界に公開する。",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/ishikawaryou/items/938e14ad5cd7c4c2dfd5",
+          "title": "【PHP／MySQL】データベースを組み込んだホームページを全世界に公開する。",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    },
+    {
+      "isbn": "9784798144610",
+      "title": "独習Git",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/user0/items/03905cd9985b4905cb31",
+          "title": "独習Git",
+          "likes": 0,
+          "stocks": 0
+        }
+      ]
+    }
+  ]
 }
