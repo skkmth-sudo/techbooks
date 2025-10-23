@@ -1,26 +1,10 @@
 {
-  "generatedAt": "2025-10-23T04:37:24.566Z",
+  "generatedAt": "2025-10-23T05:09:45.658Z",
   "source": [
     "qiita"
   ],
   "strict": true,
   "minLikes": 5,
   "pages": 5,
-  "ranking": [
-    {
-      "isbn": "2911505322154",
-      "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
-      "mentions": 1,
-      "totalLikes": 27,
-      "totalStocks": 11,
-      "sources": [
-        {
-          "url": "https://qiita.com/shirok/items/94385d1345ce86ade5ce",
-          "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
-          "likes": 27,
-          "stocks": 11
-        }
-      ]
-    }
-  ]
+  "ranking": []
 }
