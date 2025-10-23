@@ -2,7 +2,16 @@
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
-import Parser from "rss-parser";
+
+// Node20+ は fetch が同梱
+type QiitaItem = {
+  id: string;
+  title: string;
+  url: string;
+  likes_count: number;
+  stocks_count: number;
+  created_at?: string;
+};
 
 type Source = { qiitaId?: string; url: string; title: string; likes: number; stocks: number };
 type BookAgg = {
@@ -10,178 +19,159 @@ type BookAgg = {
   mentions: number; score: number; totalLikes: number; totalStocks: number;
   sources: Source[];
 };
-type FeedItem = {
-  link: string; title: string; contentSnippet?: string; isoDate?: string;
-};
 
-// ===== 設定 =====
-const OUT = path.join("app", "data", "ranking.json");
-const STRICT_BOOK_ONLY = process.env.STRICT_BOOK_ONLY !== "0"; // 1(既定)=ISBN/ASIN/出版社リンク必須
-const MIN_LIKES = Number(process.env.MIN_LIKES ?? 0);         // 例: 5 にすると5未満は除外
+const OUT = path.join("app","data","ranking.json");
 
-// RSS（必要に応じて増やせます）
-const FEEDS = [
-  "https://qiita.com/popular-items/feed",
-  "https://b.hatena.ne.jp/hotentry/it.rss",
-];
+// ---- 設定 ----
+const PAGES = Number(process.env.QIITA_PAGES ?? 3);           // 何ページ取るか
+const MIN_LIKES = Number(process.env.MIN_LIKES ?? 5);          // いいね最低ライン
+const STRICT = true;                                           // 常に「本の証拠」必須
+const QIITA_TOKEN = process.env.QIITA_TOKEN || "";
 
-// 書籍判定用：正規表現
+// 書籍判定
 const reISBN13 = /\b(?:ISBN[- ]?(?:13)?:?\s*)?(97[89])[-\s]?\d{1,5}[-\s]?\d+[-\s]?\d+[-\s]?(\d)\b/i;
 const reISBN10 = /\b(?:ISBN[- ]?(?:10)?:?\s*)?(\d{1,5}[-\s]?\d+[-\s]?\d+[-\s]?[\dXx])\b/;
 const reAmazonASIN = /https?:\/\/(?:www\.)?amazon\.[a-z.]+\/(?:.*?\/)?(?:dp|gp\/product)\/([A-Z0-9]{10})(?:[/?#]|$)/i;
+const reQuoted = /[『「](.{2,120}?)[」』]/;
 
-// よく見る出版社/書籍系ドメイン
-const PUBLISHER_HOSTS = [
-  "gihyo.jp","gihyo.co.jp","oreilly.co.jp","www.oreilly.co.jp",
-  "www.seshop.com","shoeisha.co.jp","book.impress.co.jp","impress.co.jp",
-  "books.mdn.co.jp","gakken.co.jp","sbcr.jp","book.mynavi.jp","ascii.jp",
-  "ohmsha.co.jp","techbookfest.org","booth.pm"
-];
+const BOOKY_KEYWORDS = /(技術書|書評|レビュー|読んだ|入門|実践|独習|詳解|教科書|徹底解説|図解|逆引き|第\s*\d+\s*版|改訂|新版|新訂)/;
 
-// 書籍っぽい語
-const BOOKY_KEYWORDS = /(入門|実践|独習|詳解|基礎|教科書|逆引き|徹底解説|完全|図解|やさしい|最短|速習|超入門|第\s*\d+\s*版|改訂|増補|新版|新訂)/;
+// 検索クエリ（Qiita）
+const SEARCH_QUERY =
+  [
+    'title:技術書 OR title:書評 OR title:レビュー',
+    'body:技術書 OR body:書評 OR body:レビュー OR body:ISBN OR body:Amazon',
+  ].join(" ");
 
-// 書名の括弧
-const reQuoteTitle = /[『「](.{2,80}?)[」』]/;
+const md5 = (x:string)=>crypto.createHash("md5").update(x).digest("hex");
 
-// ===== ユーティリティ =====
-const md5 = (x: string) => crypto.createHash("md5").update(x).digest("hex");
-const toText = (s?: string) => (s ?? "").replace(/\s+/g, " ").trim();
+async function fetchQiitaPage(page:number): Promise<QiitaItem[]> {
+  const url = new URL("https://qiita.com/api/v2/items");
+  url.searchParams.set("page", String(page));
+  url.searchParams.set("per_page", "100");
+  url.searchParams.set("query", SEARCH_QUERY);
 
-// RSS パース
-async function fetchFeeds(): Promise<FeedItem[]> {
-  const parser = new Parser();
-  const out: FeedItem[] = [];
-  for (const url of FEEDS) {
-    try {
-      const feed = await parser.parseURL(url);
-      for (const it of feed.items) {
-        out.push({
-          link: it.link || "",
-          title: it.title || "",
-          contentSnippet: (it as any).contentSnippet || (it as any).content || "",
-          isoDate: it.isoDate,
-        });
-      }
-    } catch (e) {
-      console.warn("feed error:", url, (e as Error).message);
-    }
-  }
-  return out;
+  const headers: Record<string,string> = {};
+  if (QIITA_TOKEN) headers["Authorization"] = `Bearer ${QIITA_TOKEN}`;
+
+  const r = await fetch(url, { headers });
+  if (!r.ok) throw new Error(`Qiita HTTP ${r.status}`);
+  const arr = await r.json() as any[];
+  return arr.map(x => ({
+    id: x.id,
+    title: x.title,
+    url:  x.url,
+    likes_count: Number(x.likes_count ?? 0),
+    stocks_count: Number(x.stocks_count ?? 0),
+    created_at: x.created_at,
+  }));
 }
 
-// 書籍情報検出
-function detectBook(item: FeedItem): { asin?: string; isbn?: string; title?: string } | null {
-  const text = [item.title, item.contentSnippet].map(toText).join("  ");
+async function fetchHtml(url:string): Promise<string> {
+  const r = await fetch(url, { redirect: "follow" });
+  if (!r.ok) return "";
+  return await r.text();
+}
 
-  // 1) ISBN
-  const m13 = text.match(reISBN13);
-  const m10 = text.match(reISBN10);
-  const isbn = m13 ? m13[0].replace(/[^0-9Xx]/g, "") :
-               m10 ? m10[1].replace(/[^0-9Xx]/g, "") : undefined;
-
-  // 2) Amazon ASIN
-  const mAsin = text.match(reAmazonASIN);
+function detectFromText(txt:string) {
+  const mAsin = txt.match(reAmazonASIN);
+  const m13 = txt.match(reISBN13);
+  const m10 = txt.match(reISBN10);
+  const mQuoted = txt.match(reQuoted);
   const asin = mAsin ? mAsin[1] : undefined;
-
-  // 3) 出版社系リンク
-  const hasPublisherLink = PUBLISHER_HOSTS.some((h) => text.includes(h));
-
-  // 4) 引用書名 + 書籍語（緩めたい場合のみ使用）
-  let quotedTitle: string | undefined;
-  const mQuote = text.match(reQuoteTitle);
-  if (mQuote && BOOKY_KEYWORDS.test(text)) {
-    quotedTitle = mQuote[1];
-  }
-
-  if (STRICT_BOOK_ONLY) {
-    // ISBN/ASIN/出版社リンクのいずれか必須
-    if (!isbn && !asin && !hasPublisherLink) return null;
-    const title = quotedTitle ?? (item.title || undefined);
-    return { asin, isbn, title };
-  } else {
-    if (isbn || asin || hasPublisherLink || quotedTitle) {
-      const title = quotedTitle ?? (item.title || undefined);
-      return { asin, isbn, title };
-    }
-    return null;
-  }
+  const isbn = m13 ? m13[0].replace(/[^0-9Xx]/g,"") :
+              m10 ? m10[1].replace(/[^0-9Xx]/g,"") : undefined;
+  const qTitle = mQuoted ? mQuoted[1] : undefined;
+  return { asin, isbn, qTitle };
 }
 
-// 集計キー（ISBN>ASIN>タイトル正規化）
-function keyOf(b: { isbn?: string; asin?: string; title?: string }) {
+function keyOf(b:{asin?:string;isbn?:string;title?:string}) {
   if (b.isbn) return `isbn:${b.isbn}`;
   if (b.asin) return `asin:${b.asin}`;
-  const t = toText(b.title).replace(/第\s*\d+\s*版|改訂|新版|新訂/g, "").toLowerCase();
-  return `title:${t}`;
+  return `title:${(b.title ?? "").replace(/\s+/g," ").toLowerCase()}`;
 }
 
-// likes/stocks は RSS では取得不可：必要なら Qiita API で補完（今は0で集計）
-function estimateLikesStocks(_item: FeedItem): { likes: number; stocks: number } {
-  return { likes: 0, stocks: 0 };
-}
-
-// ===== メイン =====
 async function main() {
-  const feedItems = await fetchFeeds();
-
-  // 候補抽出（書籍判定）
-  const candidates: Array<{ item: FeedItem; book: { asin?: string; isbn?: string; title?: string } }> = [];
-  for (const it of feedItems) {
-    const book = detectBook(it);
-    if (book) candidates.push({ item: it, book });
-  }
-
-  // 集計
-  const map = new Map<string, BookAgg>();
-  for (const { item, book } of candidates) {
-    const { likes, stocks } = estimateLikesStocks(item);
-    if (MIN_LIKES > 0 && likes < MIN_LIKES) continue;
-
-    const k = keyOf(book);
-    const id = md5(k);
-    const exists = map.get(k);
-    if (!exists) {
-      map.set(k, {
-        id,
-        title: book.title ?? "(書名不明)",
-        asin: book.asin,
-        isbn: book.isbn,
-        mentions: 1,
-        score: likes + stocks * 0.7 + 3,
-        totalLikes: likes,
-        totalStocks: stocks,
-        sources: [{ url: item.link, title: item.title, likes, stocks }],
-      });
-    } else {
-      exists.mentions += 1;
-      exists.totalLikes += likes;
-      exists.totalStocks += stocks;
-      exists.score = exists.totalLikes + exists.totalStocks * 0.7 + exists.mentions * 3;
-      exists.sources.push({ url: item.link, title: item.title, likes, stocks });
+  const all: QiitaItem[] = [];
+  for (let p=1; p<=PAGES; p++) {
+    try {
+      const page = await fetchQiitaPage(p);
+      all.push(...page);
+    } catch (e:any) {
+      console.warn("Qiita page error", p, e?.message);
     }
   }
 
-  const ranking = Array.from(map.values()).sort((a, b) => b.score - a.score);
+  // いいねで足切り
+  const filtered = all.filter(x => x.likes_count >= MIN_LIKES);
+
+  // 本の証拠チェック（Amazon/ISBN）: HTMLを軽く取得して判定
+  const map = new Map<string, BookAgg>();
+
+  for (const it of filtered) {
+    let evidence = detectFromText(it.title);
+    if (!evidence.asin && !evidence.isbn) {
+      try {
+        const html = await fetchHtml(it.url);
+        const ev2 = detectFromText(html);
+        if (ev2.asin || ev2.isbn) evidence = ev2;
+      } catch {}
+    }
+    // さらに書籍語が本文/タイトルにいるかのヒント
+    const looksBook = BOOKY_KEYWORDS.test(it.title);
+
+    if (STRICT) {
+      if (!evidence.asin && !evidence.isbn) continue; // 本の証拠が無ければ弾く
+    } else {
+      if (!evidence.asin && !evidence.isbn && !looksBook) continue;
+    }
+
+    const title =
+      evidence.qTitle && evidence.qTitle.length >= 2 ? evidence.qTitle :
+      it.title;
+
+    const key = keyOf({ asin: evidence.asin, isbn: evidence.isbn, title });
+    const id = md5(key);
+    const likes = it.likes_count;
+    const stocks = it.stocks_count;
+
+    const existing = map.get(key);
+    if (!existing) {
+      map.set(key, {
+        id,
+        title,
+        asin: evidence.asin,
+        isbn: evidence.isbn,
+        mentions: 1,
+        totalLikes: likes,
+        totalStocks: stocks,
+        score: likes + stocks*0.7 + 3,
+        sources: [{ qiitaId: it.id, url: it.url, title: it.title, likes, stocks }],
+      });
+    } else {
+      existing.mentions += 1;
+      existing.totalLikes += likes;
+      existing.totalStocks += stocks;
+      existing.score = existing.totalLikes + existing.totalStocks*0.7 + existing.mentions*3;
+      existing.sources.push({ qiitaId: it.id, url: it.url, title: it.title, likes, stocks });
+    }
+  }
+
+  const ranking = Array.from(map.values())
+    .sort((a,b)=> (b.totalLikes - a.totalLikes) || (b.score - a.score));
 
   const payload = {
     generatedAt: new Date().toISOString(),
-    source: ["qiita","hatena"],
-    strict: STRICT_BOOK_ONLY,
+    source: ["qiita"],
+    strict: STRICT,
+    minLikes: MIN_LIKES,
+    pages: PAGES,
     ranking,
   };
+
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(payload, null, 2), "utf8");
-
-  console.log(
-    `Updated ranking.json (books only=${STRICT_BOOK_ONLY})`,
-    `items=${feedItems.length}`,
-    `candidates=${candidates.length}`,
-    `books=${ranking.length}`,
-  );
+  console.log(`Updated ranking.json: books=${ranking.length}, from qiita items=${all.length}, after likes>=${MIN_LIKES}: ${filtered.length}`);
 }
 
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
+main().catch(e=>{ console.error(e); process.exit(1); });

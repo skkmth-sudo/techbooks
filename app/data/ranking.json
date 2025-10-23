@@ -1,135 +1,24 @@
 {
-  "generatedAt": "2025-10-22T19:21:47.499Z",
+  "generatedAt": "2025-10-23T04:37:24.566Z",
   "source": [
-    "qiita",
-    "hatena"
+    "qiita"
   ],
   "strict": true,
+  "minLikes": 5,
+  "pages": 5,
   "ranking": [
     {
-      "id": "e6f2b93319a1b7c37571ed3e9fa3d758",
-      "title": "アサヒビール停止で痛感：ランサムウェアは「工場」ではなく「業務フロー」を止める",
-      "isbn": "2025",
-      "mentions": 8,
-      "score": 24,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://qiita.com/comty/items/e1f1f82b89278c1a7e8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "アサヒビール停止で痛感：ランサムウェアは「工場」ではなく「業務フロー」を止める",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://qiita.com/Uyuki_0409/items/eb2090074251dc4e6d1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "【GitHub】100日間コミットしてみた感想と気付き",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://qiita.com/tks_1128/items/259de8f5789e380b1d19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "AWS初心者がJAWS FESTAに参加した話",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://qiita.com/ht_deko/items/e8062546c376e5afae76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "RAD Studio / Delphi / C++Builder 13 Florence スタートアップ FAQ",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://qiita.com/msys825/items/b2c39e2d3acdebef75af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "CLF なし＆AWS未経験からの SAA 合格：やって良かった順番と教材",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://qiita.com/1610four-season/items/5ad6fc2e7d61f7ef3ee8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "title": "Pythonで官公需情報ポータルサイト 検索 APIを活用して公共工事の入札情報をslackに自動通知＋最新のデータのcsvを取得",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://gigazine.net/news/20251022-aws-problem-knock-out-half-web-costing-billions/",
-          "title": "AWSの大規模障害でウェブの半分がダウンし数十兆円規模の経済的損失が出たとの指摘、優秀なエンジニアがAWSを離れている証拠であるという指摘も",
-          "likes": 0,
-          "stocks": 0
-        },
-        {
-          "url": "https://www.ipa.go.jp/digital/chousa/dx-trend/dx-trend-2025.html",
-          "title": "「DX動向2025」日米独比較で探る成果創出の方向性「内向き・部分最適」から「外向き・全体最適」へ | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "e76536582771542253894c00ab664ffd",
-      "title": "予約したホテルに着いて名前を伝えたら、予約されてないと言われた…→スマホを見せて確認してもらったところ、思わぬ事実が判明「意外とよくあるやつ」「すぐ予約確認しに行った」",
-      "isbn": "20251021",
+      "isbn": "2911505322154",
+      "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
       "mentions": 1,
-      "score": 3,
-      "totalLikes": 0,
-      "totalStocks": 0,
+      "totalLikes": 27,
+      "totalStocks": 11,
       "sources": [
         {
-          "url": "https://togetter.com/li/2618998",
-          "title": "予約したホテルに着いて名前を伝えたら、予約されてないと言われた…→スマホを見せて確認してもらったところ、思わぬ事実が判明「意外とよくあるやつ」「すぐ予約確認しに行った」",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "025f124f3d11096da99851808f0365a1",
-      "title": "オンラインの本人確認が厳格化、券面撮影など原則廃止へ　iPhoneでの確認は時期尚早",
-      "isbn": "2026",
-      "mentions": 1,
-      "score": 3,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11188/",
-          "title": "オンラインの本人確認が厳格化、券面撮影など原則廃止へ　iPhoneでの確認は時期尚早",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "0418d2a262acd6f5cd22fe2d0673b0ca",
-      "title": "“語ることで食べていく”時代の終わり──プロブロガーとスピリチュアル教祖の転落",
-      "isbn": "5500",
-      "mentions": 1,
-      "score": 3,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://blog.tinect.jp/?p=90381",
-          "title": "“語ることで食べていく”時代の終わり──プロブロガーとスピリチュアル教祖の転落",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "id": "ecc9feb16e798b8a8efccf34c444eb47",
-      "title": "2カ月で髪が太く濃く、抜け毛63％減　新配合ヘアケア製品を臨床試験60人で実証　台湾チームが研究発表",
-      "isbn": "2014",
-      "mentions": 1,
-      "score": 3,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://www.itmedia.co.jp/news/articles/2510/22/news030.html",
-          "title": "2カ月で髪が太く濃く、抜け毛63％減　新配合ヘアケア製品を臨床試験60人で実証　台湾チームが研究発表",
-          "likes": 0,
-          "stocks": 0
+          "url": "https://qiita.com/shirok/items/94385d1345ce86ade5ce",
+          "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
+          "likes": 27,
+          "stocks": 11
         }
       ]
     }
