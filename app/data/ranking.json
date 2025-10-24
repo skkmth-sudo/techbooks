@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-23T06:19:22.640Z",
+  "generatedAt": "2025-10-24T05:24:57.427Z",
   "source": [
     "qiita"
   ],
@@ -8,83 +8,285 @@
   "pages": 10,
   "ranking": [
     {
-      "isbn": "9784043898039",
-      "title": "国立国会図書館の検索用APIを利用してISBNから書籍情報を取得する(OpenSearch)",
+      "isbn": "9784274050640",
+      "title": "関数プログラミング珠玉のアルゴリズムデザイン",
       "mentions": 1,
-      "totalLikes": 0,
+      "totalLikes": 3,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://qiita.com/yknm1989/items/f77d22e1c7f1347d79b0",
-          "title": "国立国会図書館の検索用APIを利用してISBNから書籍情報を取得する(OpenSearch)",
-          "likes": 0,
+          "url": "https://qiita.com/tj9999/items/4131016df5f1c5730584",
+          "title": "C++, Lisp, Rust, and Mojoで「最小自由数」アルゴリズムの速度を比較してみた (Comparing the performance of the \"minimum free number\" algorithm in C++, Lisp, Rust, and Mojo)",
+          "likes": 3,
           "stocks": 0
         }
-      ]
+      ],
+      "meta": {
+        "title": "関数プログラミング珠玉のアルゴリズムデザイン",
+        "authors": [
+          "Bird",
+          "Richard",
+          "1943- 山下",
+          "伸夫 オーム社"
+        ],
+        "publisher": "オーム社",
+        "published": "201411",
+        "cover": "",
+        "source": "openbd"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784274050640&i=stripbooks"
+      }
     },
     {
-      "isbn": "9784873115894",
-      "title": "「SQLアンチパターン 第2版」まとめ",
+      "isbn": "9784339029468",
+      "title": "Pythonで学ぶ暗号理論 = Cryptography with Python",
       "mentions": 1,
-      "totalLikes": 0,
+      "totalLikes": 1,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://qiita.com/matsumura-yzrh/items/5ad34282a7c0bf443895",
-          "title": "「SQLアンチパターン 第2版」まとめ",
-          "likes": 0,
+          "url": "https://qiita.com/embermaverick05/items/bfaa2fb91aea48e01f38",
+          "title": "Miller–Rabin（ミラー・ラビン）テストの性能比較",
+          "likes": 1,
           "stocks": 0
         }
-      ]
+      ],
+      "meta": {
+        "title": "Pythonで学ぶ暗号理論 = Cryptography with Python",
+        "authors": [
+          "神永",
+          "正博 吉川",
+          "英機"
+        ],
+        "publisher": "コロナ社",
+        "published": "202410",
+        "cover": "",
+        "source": "openbd"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784339029468&i=stripbooks"
+      }
     },
     {
-      "isbn": "9784798072791",
-      "title": "【書籍紹介】システム設計面接の傾向と対策",
-      "mentions": 1,
+      "isbn": "9784873119892",
+      "title": "リーダーの作法 : ささいなことをていねいに",
+      "mentions": 2,
       "totalLikes": 0,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://qiita.com/litswd0211/items/aa21c63f3ffee60593f2",
-          "title": "【書籍紹介】システム設計面接の傾向と対策",
+          "url": "https://qiita.com/w2mjra555/items/9eed900881937f0a3cc6",
+          "title": "「第III幕　Slack：エグゼクティブ」からの学びメモ(4)(リーダーの作法／マイケル・ロップ)",
+          "likes": 0,
+          "stocks": 0
+        },
+        {
+          "url": "https://qiita.com/w2mjra555/items/6b84d14d0a4c5461c022",
+          "title": "「第III幕　Slack：エグゼクティブ」からの学びメモ(3)(リーダーの作法／マイケル・ロップ)",
           "likes": 0,
           "stocks": 0
         }
-      ]
+      ],
+      "meta": {
+        "title": "リーダーの作法 : ささいなことをていねいに",
+        "authors": [
+          "Lopp",
+          "Michael 和智",
+          "右桂",
+          "1978-"
+        ],
+        "publisher": "オーム社 (発売)",
+        "published": "202206",
+        "cover": "",
+        "source": "openbd"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784873119892&i=stripbooks"
+      }
     },
     {
-      "isbn": "9784774142043",
-      "title": "【書評】Webを支える技術",
-      "mentions": 1,
+      "isbn": "9784814400737",
+      "title": "ドメイン駆動設計をはじめよう : ソフトウェアの実装と事業戦略を結びつける実践技法",
+      "mentions": 2,
       "totalLikes": 0,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://qiita.com/garudakai/items/665bf6d59b49f0dae26e",
-          "title": "【書評】Webを支える技術",
+          "url": "https://qiita.com/TechForGood/items/6976c68f8d205d6999ac",
+          "title": "戦略的なDDD、戦術的なDDD",
+          "likes": 0,
+          "stocks": 0
+        },
+        {
+          "url": "https://qiita.com/shintaro2480/items/7c29f618f287bceaf735",
+          "title": "WEBの勉強は苦しいので、エンジニアに希望を持てそうなマンガを描いてみた②",
           "likes": 0,
           "stocks": 0
         }
-      ]
+      ],
+      "meta": {
+        "title": "ドメイン駆動設計をはじめよう : ソフトウェアの実装と事業戦略を結びつける実践技法",
+        "authors": [
+          "VladKhononov 増田亨 綿引琢磨"
+        ],
+        "publisher": "オーム社",
+        "published": "",
+        "cover": "",
+        "source": "openbd"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784814400737&i=stripbooks"
+      }
     },
     {
-      "isbn": "9784798181578",
-      "title": "書籍紹介：手を動かして学ぶハッキングの入門書『7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性』",
+      "isbn": "9784297145309",
+      "title": "LangChainとLangGraphによるRAG・AIエージェント〈実践〉入門",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "url": "https://qiita.com/segavvy/items/8c379e6cf3709579a5bd",
+          "title": "「現場で活用するためのAIエージェント実践入門」でつまずいたことメモ:4章",
+          "likes": 0,
+          "stocks": 1
+        }
+      ],
+      "meta": {
+        "title": "LangChainとLangGraphによるRAG・AIエージェント〈実践〉入門",
+        "authors": [
+          "西見",
+          "公宏",
+          "1983- 吉田",
+          "真吾 大嶋",
+          "勇樹"
+        ],
+        "publisher": "技術評論社",
+        "published": "202411",
+        "cover": "",
+        "source": "openbd"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784297145309&i=stripbooks"
+      }
+    },
+    {
+      "isbn": "9784775991855",
+      "title": "Python3ではじめるシステムトレード【第２版】　――環境構築と売買戦略",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 1,
+      "sources": [
+        {
+          "url": "https://qiita.com/innovation1005/items/4e763cebc5fc8ee6d9b2",
+          "title": "Python3ではじめるシステムトレード：混合分布",
+          "likes": 0,
+          "stocks": 1
+        }
+      ],
+      "meta": {
+        "title": "Python3ではじめるシステムトレード【第２版】　――環境構築と売買戦略",
+        "authors": [
+          "森谷博之"
+        ],
+        "publisher": "Pan Rolling Inc",
+        "published": "2023-06-04",
+        "cover": "http://books.google.com/books/content?id=VUrWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "source": "gbooks"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784775991855&i=stripbooks"
+      }
+    },
+    {
+      "isbn": "9784798180557",
+      "title": "独習ASP.NET Core",
       "mentions": 1,
       "totalLikes": 0,
       "totalStocks": 0,
       "sources": [
         {
-          "url": "https://qiita.com/sekappy_official/items/082bc003a2c9d2a4c835",
-          "title": "書籍紹介：手を動かして学ぶハッキングの入門書『7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性』",
+          "url": "https://qiita.com/Fujiwo/items/e00b8fb16c4b85b24ee4",
+          "title": "『独習 ASP.NET Core』レビュー",
           "likes": 0,
           "stocks": 0
         }
-      ]
+      ],
+      "meta": {
+        "title": "独習ASP.NET Core",
+        "authors": [
+          "山田祥寛"
+        ],
+        "publisher": "翔泳社",
+        "published": "",
+        "cover": "",
+        "source": "openbd"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784798180557&i=stripbooks"
+      }
+    },
+    {
+      "isbn": "9784814401284",
+      "title": "Fluent Python（第2版） : Pythonicな思考とコーディング手法",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/ishisaka/items/099c1ed0726d3f90dd89",
+          "title": "プログラミング雑記 2025年10月21日",
+          "likes": 0,
+          "stocks": 0
+        }
+      ],
+      "meta": {
+        "title": "Fluent Python（第2版） : Pythonicな思考とコーディング手法",
+        "authors": [
+          "LucianoRamalho 牧野聡"
+        ],
+        "publisher": "オーム社",
+        "published": "",
+        "cover": "",
+        "source": "openbd"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784814401284&i=stripbooks"
+      }
+    },
+    {
+      "isbn": "9784873119229",
+      "title": "ハンズオンJavaScript",
+      "mentions": 1,
+      "totalLikes": 0,
+      "totalStocks": 0,
+      "sources": [
+        {
+          "url": "https://qiita.com/Takehara-Biz/items/19e97762f96b5471f67f",
+          "title": "ハンズオンJavaScript（第1章）の勉強メモ",
+          "likes": 0,
+          "stocks": 0
+        }
+      ],
+      "meta": {
+        "title": "ハンズオンJavaScript",
+        "authors": [
+          "あんどう",
+          "やすし"
+        ],
+        "publisher": "オーム社",
+        "published": "202011",
+        "cover": "",
+        "source": "openbd"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784873119229&i=stripbooks"
+      }
     },
     {
       "isbn": "9784274223211",
-      "title": "自分用読書メモ「自動車工学入門」",
+      "title": "自動車工学入門",
       "mentions": 1,
       "totalLikes": 0,
       "totalStocks": 0,
@@ -95,52 +297,22 @@
           "likes": 0,
           "stocks": 0
         }
-      ]
-    },
-    {
-      "isbn": "9784478108925",
-      "title": "非エンジニアのプログラミング学習記録　2025年10月16日（木）読書から始める…",
-      "mentions": 1,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://qiita.com/hiroki_fukuoka/items/fcd5b3feb1a6467127bf",
-          "title": "非エンジニアのプログラミング学習記録　2025年10月16日（木）読書から始める…",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "isbn": "9784798168500",
-      "title": "【PHP／MySQL】データベースを組み込んだホームページを全世界に公開する。",
-      "mentions": 1,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://qiita.com/ishikawaryou/items/938e14ad5cd7c4c2dfd5",
-          "title": "【PHP／MySQL】データベースを組み込んだホームページを全世界に公開する。",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
-    },
-    {
-      "isbn": "9784798144610",
-      "title": "独習Git",
-      "mentions": 1,
-      "totalLikes": 0,
-      "totalStocks": 0,
-      "sources": [
-        {
-          "url": "https://qiita.com/user0/items/03905cd9985b4905cb31",
-          "title": "独習Git",
-          "likes": 0,
-          "stocks": 0
-        }
-      ]
+      ],
+      "meta": {
+        "title": "自動車工学入門",
+        "authors": [
+          "斎",
+          "輝夫"
+        ],
+        "publisher": "オーム社",
+        "published": "201901",
+        "cover": "",
+        "source": "openbd"
+      },
+      "affiliate": {
+        "amazon": "https://www.amazon.co.jp/s?k=9784274223211&i=stripbooks"
+      }
     }
-  ]
+  ],
+  "verified": true
 }
